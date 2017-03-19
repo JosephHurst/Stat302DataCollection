@@ -1,0 +1,961 @@
+Movie Number,Movie Title,Movie Url,Date,Length,Genre,IMDb Rating,Filtered Genre,year,Int Length
+2,The Amazing Spider-Man 2,http://www.imdb.com/title/tt1872181/,2 May 2014,2h 22min,"['Action', 'Adventure', 'Sci-Fi']",6.7,Sci-Fi/Fantasy,2014.0,142
+11,Se7en,http://www.imdb.com/title/tt0114369/,22 September 1995,2h 7min,"['Crime', 'Drama', 'Mystery']",8.6,Crime,1995.0,127
+12,Toy Story,http://www.imdb.com/title/tt0114709/,22 November 1995,1h 21min,"['Animation', 'Adventure', 'Comedy']",8.3,Comedy,1995.0,81
+15,Fight Club,http://www.imdb.com/title/tt0137523/,15 October 1999,2h 19min,['Drama'],8.8,Drama,1999.0,139
+17,Star Wars: Episode I - The Phantom Menace,http://www.imdb.com/title/tt0120915/,19 May 1999,2h 16min,"['Action', 'Adventure', 'Fantasy']",6.5,Sci-Fi/Fantasy,1999.0,136
+26,Anchorman: The Legend of Ron Burgundy,http://www.imdb.com/title/tt0357413/,9 July 2004,1h 34min,['Comedy'],7.2,Comedy,2004.0,94
+49,Avatar,http://www.imdb.com/title/tt0499549/,18 December 2009,2h 42min,"['Action', 'Adventure', 'Fantasy']",7.8,Sci-Fi/Fantasy,2009.0,162
+54,Iron Man 2,http://www.imdb.com/title/tt1228705/,7 May 2010,2h 4min,"['Action', 'Adventure', 'Sci-Fi']",7.0,Sci-Fi/Fantasy,2010.0,124
+58,TRON: Legacy,http://www.imdb.com/title/tt1104001/,17 December 2010,2h 5min,"['Action', 'Adventure', 'Sci-Fi']",6.8,Sci-Fi/Fantasy,2010.0,125
+94,Life of Pi,http://www.imdb.com/title/tt0454876/,21 November 2012,2h 7min,"['Adventure', 'Drama', 'Fantasy']",7.9,Sci-Fi/Fantasy,2012.0,127
+102,Project X,http://www.imdb.com/title/tt1636826/,2 March 2012,1h 28min,['Comedy'],6.7,Comedy,2012.0,88
+110,Snow White and the Huntsman,http://www.imdb.com/title/tt1735898/,1 June 2012,2h 7min,"['Action', 'Adventure', 'Drama']",6.1,Undefined,2012.0,127
+111,Taken 2,http://www.imdb.com/title/tt1397280/,5 October 2012,1h 32min,"['Action', 'Crime', 'Thriller']",6.3,Crime,2012.0,92
+113,That's My Boy,http://www.imdb.com/title/tt1232200/,15 June 2012,1h 56min,"['Comedy', 'Drama']",5.6,Comedy,2012.0,116
+118,Jack the Giant Slayer,http://www.imdb.com/title/tt1351685/,1 March 2013,1h 54min,"['Adventure', 'Fantasy']",6.3,Sci-Fi/Fantasy,2013.0,114
+123,Spring Breakers,http://www.imdb.com/title/tt2101441/,22 March 2013,1h 34min,"['Crime', 'Drama']",5.3,Crime,2013.0,94
+128,Olympus Has Fallen,http://www.imdb.com/title/tt2302755/,22 March 2013,1h 59min,"['Action', 'Thriller']",6.5,Action/Adventure,2013.0,119
+156,Antiviral,http://www.imdb.com/title/tt2099556/,13 February 2013,1h 48min,"['Horror', 'Sci-Fi', 'Thriller']",5.7,Sci-Fi/Fantasy,2013.0,108
+161,Tomorrow You're Gone,http://www.imdb.com/title/tt1838475/,1 November 2012,1h 33min,['Thriller'],3.8,Undefined,2012.0,93
+162,Not Fade Away,http://www.imdb.com/title/tt1230215/,19 July 2013,1h 52min,['Drama'],6.0,Drama,2013.0,112
+170,Scary Movie 5,http://www.imdb.com/title/tt0795461/,12 April 2013,1h 26min,['Comedy'],3.5,Comedy,2013.0,86
+171,Broken City,http://www.imdb.com/title/tt1235522/,18 January 2013,1h 49min,"['Crime', 'Drama', 'Thriller']",6.2,Crime,2013.0,109
+172,Gangster Squad,http://www.imdb.com/title/tt1321870/,11 January 2013,1h 53min,"['Action', 'Crime', 'Drama']",6.7,Crime,2013.0,113
+186,Identity Thief,http://www.imdb.com/title/tt2024432/,8 February 2013,1h 51min,"['Comedy', 'Crime']",5.7,Comedy,2013.0,111
+196,The Purge,http://www.imdb.com/title/tt2184339/,7 June 2013,1h 25min,"['Horror', 'Sci-Fi', 'Thriller']",5.7,Sci-Fi/Fantasy,2013.0,85
+235,Spirited Away,http://www.imdb.com/title/tt0245429/,28 March 2003,2h 5min,"['Animation', 'Adventure', 'Family']",8.6,Action/Adventure,2003.0,125
+241,Kill Bill: Vol. 1,http://www.imdb.com/title/tt0266697/,10 October 2003,1h 51min,"['Action', 'Crime', 'Thriller']",8.1,Crime,2003.0,111
+251,Cars,http://www.imdb.com/title/tt0317219/,9 June 2006,1h 57min,"['Animation', 'Adventure', 'Comedy']",7.1,Comedy,2006.0,117
+254,Talladega Nights: The Ballad of Ricky Bobby,http://www.imdb.com/title/tt0415306/,4 August 2006,1h 48min,"['Action', 'Comedy', 'Sport']",6.6,Comedy,2006.0,108
+281,Clash of the Titans,http://www.imdb.com/title/tt0800320/,2 April 2010,1h 46min,"['Action', 'Adventure', 'Fantasy']",5.8,Sci-Fi/Fantasy,2010.0,106
+320,The Collection,http://www.imdb.com/title/tt1748227/,30 November 2012,1h 22min,['Horror'],6.1,Horror,2012.0,82
+321,Contraband,http://www.imdb.com/title/tt1524137/,13 January 2012,1h 49min,"['Action', 'Crime', 'Drama']",6.5,Crime,2012.0,109
+325,Haywire,http://www.imdb.com/title/tt1506999/,20 January 2012,1h 33min,"['Action', 'Thriller']",5.8,Action/Adventure,2012.0,93
+360,The Awakening,http://www.imdb.com/title/tt1687901/,11 November 2011,1h 42min,"['Horror', 'Thriller']",6.5,Horror,2011.0,102
+367,Donnie Darko,http://www.imdb.com/title/tt0246578/,26 October 2001,1h 53min,"['Drama', 'Sci-Fi', 'Thriller']",8.1,Sci-Fi/Fantasy,2001.0,113
+370,Trainspotting,http://www.imdb.com/title/tt0117951/,9 August 1996,1h 34min,['Drama'],8.2,Drama,1996.0,94
+371,Reservoir Dogs,http://www.imdb.com/title/tt0105236/,2 September 1992,1h 39min,"['Crime', 'Drama', 'Thriller']",8.4,Crime,1992.0,99
+383,Till We Meet Again,http://www.imdb.com/title/tt2461340/,25 November 2016,1h 45min,"['Adventure', 'Drama']",9.6,Undefined,2016.0,105
+398,Indiana Jones and the Last Crusade,http://www.imdb.com/title/tt0097576/,24 May 1989,2h 7min,"['Action', 'Adventure', 'Fantasy']",8.3,Sci-Fi/Fantasy,1989.0,127
+399,Rain Man,http://www.imdb.com/title/tt0095953/,16 December 1988,2h 13min,['Drama'],8.0,Drama,1988.0,133
+407,Dumb & Dumber,http://www.imdb.com/title/tt0109686/,16 December 1994,1h 47min,['Comedy'],7.3,Comedy,1994.0,107
+409,Fargo,http://www.imdb.com/title/tt0116282/,5 April 1996,1h 38min,"['Crime', 'Drama', 'Thriller']",8.1,Crime,1996.0,98
+414,Liar Liar,http://www.imdb.com/title/tt0119528/,21 March 1997,1h 26min,"['Comedy', 'Fantasy']",6.8,Comedy,1997.0,86
+424,Ocean's Eleven,http://www.imdb.com/title/tt0240772/,7 December 2001,1h 56min,"['Crime', 'Thriller']",7.8,Crime,2001.0,116
+442,The Butterfly Effect,http://www.imdb.com/title/tt0289879/,23 January 2004,1h 53min,"['Sci-Fi', 'Thriller']",7.7,Sci-Fi/Fantasy,2004.0,113
+443,Collateral,http://www.imdb.com/title/tt0369339/,6 August 2004,2h,"['Crime', 'Drama', 'Thriller']",7.6,Crime,2004.0,120
+449,Madagascar,http://www.imdb.com/title/tt0351283/,27 May 2005,1h 26min,"['Animation', 'Adventure', 'Comedy']",6.9,Comedy,2005.0,86
+453,Fantastic Four,http://www.imdb.com/title/tt0120667/,8 July 2005,1h 46min,"['Action', 'Adventure', 'Family']",5.7,Action/Adventure,2005.0,106
+460,Scary Movie 4,http://www.imdb.com/title/tt0362120/,14 April 2006,1h 23min,['Comedy'],5.1,Comedy,2006.0,83
+470,Zodiac,http://www.imdb.com/title/tt0443706/,2 March 2007,2h 37min,"['Crime', 'Drama', 'History']",7.7,Crime,2007.0,157
+473,Seven Pounds,http://www.imdb.com/title/tt0814314/,19 December 2008,2h 3min,"['Drama', 'Romance']",7.7,Romance,2008.0,123
+478,The Karate Kid,http://www.imdb.com/title/tt1155076/,11 June 2010,2h 20min,"['Action', 'Drama', 'Family']",6.2,Undefined,2010.0,140
+490,Red Riding Hood,http://www.imdb.com/title/tt1486185/,11 March 2011,1h 40min,"['Fantasy', 'Horror', 'Mystery']",5.4,Sci-Fi/Fantasy,2011.0,100
+492,Your Highness,http://www.imdb.com/title/tt1240982/,8 April 2011,1h 42min,"['Adventure', 'Comedy', 'Fantasy']",5.6,Comedy,2011.0,102
+504,Journey 2: The Mysterious Island,http://www.imdb.com/title/tt1397514/,10 February 2012,1h 34min,"['Action', 'Adventure', 'Comedy']",5.8,Comedy,2012.0,94
+508,The Possession,http://www.imdb.com/title/tt0431021/,31 August 2012,1h 32min,"['Horror', 'Thriller']",5.9,Horror,2012.0,92
+514,The World's End,http://www.imdb.com/title/tt1213663/,23 August 2013,1h 49min,"['Action', 'Comedy', 'Sci-Fi']",7.0,Comedy,2013.0,109
+549,The Lost Boys,http://www.imdb.com/title/tt0093437/,31 July 1987,1h 37min,"['Comedy', 'Horror']",7.2,Comedy,1987.0,97
+555,A Few Good Men,http://www.imdb.com/title/tt0104257/,11 December 1992,2h 18min,"['Drama', 'Thriller']",7.6,Drama,1992.0,138
+557,True Romance,http://www.imdb.com/title/tt0108399/,10 September 1993,2h,"['Crime', 'Drama', 'Romance']",8.0,Romance,1993.0,120
+587,Anger Management,http://www.imdb.com/title/tt0305224/,11 April 2003,1h 46min,['Comedy'],6.2,Comedy,2003.0,106
+625,Bolt,http://www.imdb.com/title/tt0397892/,21 November 2008,1h 36min,"['Animation', 'Adventure', 'Comedy']",6.9,Comedy,2008.0,96
+630,Indiana Jones and the Kingdom of the Crystal Skull,http://www.imdb.com/title/tt0367882/,22 May 2008,2h 2min,"['Action', 'Adventure', 'Fantasy']",6.2,Sci-Fi/Fantasy,2008.0,122
+642,Pandorum,http://www.imdb.com/title/tt1188729/,25 September 2009,1h 48min,"['Action', 'Horror', 'Mystery']",6.8,Horror,2009.0,108
+664,Ghost Rider: Spirit of Vengeance,http://www.imdb.com/title/tt1071875/,17 February 2012,1h 36min,"['Action', 'Fantasy', 'Thriller']",4.3,Sci-Fi/Fantasy,2012.0,96
+668,Upstream Color,http://www.imdb.com/title/tt2084989/,30 August 2013,1h 36min,"['Drama', 'Sci-Fi']",6.8,Sci-Fi/Fantasy,2013.0,96
+689,Another Earth,http://www.imdb.com/title/tt1549572/,12 October 2011,1h 32min,"['Drama', 'Romance', 'Sci-Fi']",7.0,Romance,2011.0,92
+696,Mulholland Dr.,http://www.imdb.com/title/tt0166924/,19 October 2001,2h 27min,"['Drama', 'Mystery', 'Thriller']",8.0,Drama,2001.0,147
+699,The Hobbit: The Battle of the Five Armies,http://www.imdb.com/title/tt2310332/,17 December 2014,2h 24min,"['Adventure', 'Fantasy']",7.4,Sci-Fi/Fantasy,2014.0,144
+700,The Maze Runner,http://www.imdb.com/title/tt1790864/,19 September 2014,1h 53min,"['Action', 'Mystery', 'Sci-Fi']",6.8,Sci-Fi/Fantasy,2014.0,113
+702,RED 2,http://www.imdb.com/title/tt1821694/,19 July 2013,1h 56min,"['Action', 'Comedy', 'Crime']",6.7,Comedy,2013.0,116
+716,My Cousin Vinny,http://www.imdb.com/title/tt0104952/,13 March 1992,2h,"['Comedy', 'Crime']",7.5,Comedy,1992.0,120
+727,Wild Things,http://www.imdb.com/title/tt0120890/,20 March 1998,1h 48min,"['Crime', 'Drama', 'Mystery']",6.5,Crime,1998.0,108
+728,Blade,http://www.imdb.com/title/tt0120611/,21 August 1998,2h,"['Action', 'Horror']",7.1,Horror,1998.0,120
+737,Mission: Impossible II,http://www.imdb.com/title/tt0120755/,24 May 2000,2h 3min,"['Action', 'Adventure', 'Thriller']",6.1,Action/Adventure,2000.0,123
+744,Lilo & Stitch,http://www.imdb.com/title/tt0275847/,21 June 2002,1h 25min,"['Animation', 'Adventure', 'Comedy']",7.2,Comedy,2002.0,85
+766,The Hills Have Eyes,http://www.imdb.com/title/tt0454841/,10 March 2006,1h 47min,['Horror'],6.4,Horror,2006.0,107
+781,Meet the Robinsons,http://www.imdb.com/title/tt0396555/,30 March 2007,1h 35min,"['Animation', 'Adventure', 'Comedy']",6.9,Comedy,2007.0,95
+792,Max Payne,http://www.imdb.com/title/tt0467197/,17 October 2008,1h 40min,"['Action', 'Crime', 'Drama']",5.4,Crime,2008.0,100
+795,Coraline,http://www.imdb.com/title/tt0327597/,6 February 2009,1h 40min,"['Animation', 'Family', 'Fantasy']",7.7,Sci-Fi/Fantasy,2009.0,100
+816,Final Destination 5,http://www.imdb.com/title/tt1622979/,12 August 2011,1h 32min,"['Horror', 'Thriller']",5.9,Horror,2011.0,92
+817,Jack and Jill,http://www.imdb.com/title/tt0810913/,11 November 2011,1h 31min,['Comedy'],3.4,Comedy,2011.0,91
+823,Inside Llewyn Davis,http://www.imdb.com/title/tt2042568/,10 January 2014,1h 44min,"['Drama', 'Music']",7.4,Drama,2014.0,104
+852,Planet Terror,http://www.imdb.com/title/tt1077258/,21 June 2007,1h 45min,"['Action', 'Comedy', 'Horror']",7.1,Comedy,2007.0,105
+861,WarGames,http://www.imdb.com/title/tt0086567/,3 June 1983,1h 54min,"['Sci-Fi', 'Thriller']",7.1,Sci-Fi/Fantasy,1983.0,114
+883,Batman Forever,http://www.imdb.com/title/tt0112462/,16 June 1995,2h 1min,"['Action', 'Adventure', 'Fantasy']",5.4,Sci-Fi/Fantasy,1995.0,121
+887,Alien: Resurrection,http://www.imdb.com/title/tt0118583/,26 November 1997,1h 49min,"['Action', 'Horror', 'Sci-Fi']",6.3,Sci-Fi/Fantasy,1997.0,109
+893,Austin Powers: The Spy Who Shagged Me,http://www.imdb.com/title/tt0145660/,11 June 1999,1h 35min,"['Action', 'Adventure', 'Comedy']",6.6,Comedy,1999.0,95
+899,Bring It On,http://www.imdb.com/title/tt0204946/,25 August 2000,1h 38min,"['Comedy', 'Romance', 'Sport']",5.9,RomCom,2000.0,98
+902,How the Grinch Stole Christmas,http://www.imdb.com/title/tt0170016/,17 November 2000,1h 44min,"['Comedy', 'Family', 'Fantasy']",6.0,Comedy,2000.0,104
+906,Road Trip,http://www.imdb.com/title/tt0215129/,19 May 2000,1h 33min,"['Adventure', 'Comedy']",6.5,Comedy,2000.0,93
+911,The Others,http://www.imdb.com/title/tt0230600/,10 August 2001,1h 44min,"['Horror', 'Mystery', 'Thriller']",7.6,Horror,2001.0,104
+914,Blade II,http://www.imdb.com/title/tt0187738/,22 March 2002,1h 57min,"['Action', 'Horror', 'Sci-Fi']",6.7,Sci-Fi/Fantasy,2002.0,117
+915,Chicago,http://www.imdb.com/title/tt0299658/,24 January 2003,1h 53min,"['Comedy', 'Crime', 'Musical']",7.2,Comedy,2003.0,113
+921,Daredevil,http://www.imdb.com/title/tt0287978/,14 February 2003,1h 43min,"['Action', 'Crime', 'Drama']",5.3,Crime,2003.0,103
+923,What a Girl Wants,http://www.imdb.com/title/tt0286788/,4 April 2003,1h 45min,"['Comedy', 'Drama', 'Family']",5.8,Comedy,2003.0,105
+926,The Texas Chainsaw Massacre,http://www.imdb.com/title/tt0324216/,17 October 2003,1h 38min,['Horror'],6.2,Horror,2003.0,98
+936,Corpse Bride,http://www.imdb.com/title/tt0121164/,23 September 2005,1h 17min,"['Animation', 'Drama', 'Family']",7.4,Drama,2005.0,77
+945,Ice Age: The Meltdown,http://www.imdb.com/title/tt0438097/,31 March 2006,1h 31min,"['Animation', 'Action', 'Adventure']",6.9,Action/Adventure,2006.0,91
+948,Catch and Release,http://www.imdb.com/title/tt0395495/,26 January 2007,2h 4min,"['Comedy', 'Drama', 'Romance']",6.0,RomCom,2007.0,124
+965,Disaster Movie,http://www.imdb.com/title/tt1213644/,29 August 2008,1h 27min,['Comedy'],1.9,Comedy,2008.0,87
+967,Harold & Kumar Escape from Guantanamo Bay,http://www.imdb.com/title/tt0481536/,25 April 2008,1h 44min,"['Adventure', 'Comedy']",6.6,Comedy,2008.0,104
+973,Star Wars: The Clone Wars,http://www.imdb.com/title/tt1185834/,15 August 2008,1h 38min,"['Animation', 'Action', 'Adventure']",5.8,Action/Adventure,2008.0,98
+986,Underworld: Rise of the Lycans,http://www.imdb.com/title/tt0834001/,23 January 2009,1h 32min,"['Action', 'Adventure', 'Fantasy']",6.6,Sci-Fi/Fantasy,2009.0,92
+989,The Invention of Lying,http://www.imdb.com/title/tt1058017/,2 October 2009,1h 40min,"['Comedy', 'Fantasy', 'Romance']",6.4,RomCom,2009.0,100
+1007,Takers,http://www.imdb.com/title/tt1135084/,27 August 2010,1h 47min,"['Action', 'Crime', 'Thriller']",6.2,Crime,2010.0,107
+1013,Mr. Popper's Penguins,http://www.imdb.com/title/tt1396218/,17 June 2011,1h 34min,"['Comedy', 'Family', 'Fantasy']",6.0,Comedy,2011.0,94
+1028,"Tad, the Lost Explorer",http://www.imdb.com/title/tt1764625/,31 August 2012,1h 32min,"['Animation', 'Adventure', 'Comedy']",5.9,Comedy,2012.0,92
+1029,A Late Quartet,http://www.imdb.com/title/tt1226240/,23 November 2012,1h 45min,"['Drama', 'Music']",7.1,Drama,2012.0,105
+1044,Beginners,http://www.imdb.com/title/tt1532503/,9 June 2011,1h 45min,"['Comedy', 'Drama', 'Romance']",7.2,RomCom,2011.0,105
+1047,Chloe,http://www.imdb.com/title/tt1352824/,26 March 2010,1h 36min,"['Drama', 'Mystery', 'Romance']",6.3,Romance,2010.0,96
+1053,St. Trinian's,http://www.imdb.com/title/tt0964587/,21 December 2007,1h 37min,"['Comedy', 'Family']",5.8,Comedy,2007.0,97
+1066,Conan the Barbarian,http://www.imdb.com/title/tt0082198/,14 May 1982,2h 9min,"['Adventure', 'Fantasy']",6.9,Sci-Fi/Fantasy,1982.0,129
+1097,Shakespeare in Love,http://www.imdb.com/title/tt0138097/,8 January 1999,2h 3min,"['Comedy', 'Drama', 'History']",7.2,Comedy,1999.0,123
+1119,Something's Gotta Give,http://www.imdb.com/title/tt0337741/,12 December 2003,2h 8min,"['Comedy', 'Drama', 'Romance']",6.7,RomCom,2003.0,128
+1121,Chasing Liberty,http://www.imdb.com/title/tt0360139/,9 January 2004,1h 51min,"['Comedy', 'Romance']",6.1,RomCom,2004.0,111
+1137,The Marine,http://www.imdb.com/title/tt0419946/,13 October 2006,1h 32min,"['Action', 'Drama', 'Thriller']",4.7,Undefined,2006.0,92
+1148,Reign Over Me,http://www.imdb.com/title/tt0490204/,23 March 2007,2h 4min,['Drama'],7.5,Drama,2007.0,124
+1187,Alvin and the Chipmunks: Chipwrecked,http://www.imdb.com/title/tt1615918/,16 December 2011,1h 27min,"['Animation', 'Adventure', 'Comedy']",4.4,Comedy,2011.0,87
+1188,Apollo 18,http://www.imdb.com/title/tt1772240/,2 September 2011,1h 26min,"['Horror', 'Mystery', 'Sci-Fi']",5.2,Sci-Fi/Fantasy,2011.0,86
+1203,Chained,http://www.imdb.com/title/tt1989475/,18 July 2013,1h 34min,"['Horror', 'Thriller']",6.4,Horror,2013.0,94
+1220,Buried,http://www.imdb.com/title/tt1462758/,15 October 2010,1h 35min,"['Drama', 'Mystery', 'Thriller']",7.0,Drama,2010.0,95
+1249,Blue Velvet,http://www.imdb.com/title/tt0090756/,23 October 1986,2h,"['Drama', 'Mystery', 'Thriller']",7.8,Drama,1986.0,120
+1255,Dog Day Afternoon,http://www.imdb.com/title/tt0072890/,25 December 1975,2h 5min,"['Biography', 'Crime', 'Drama']",8.0,Documentary/Biography,1975.0,125
+1278,New Jack City,http://www.imdb.com/title/tt0102526/,8 March 1991,1h 37min,"['Action', 'Crime', 'Drama']",6.6,Crime,1991.0,97
+1287,Rookie of the Year,http://www.imdb.com/title/tt0107985/,7 July 1993,1h 43min,"['Comedy', 'Family', 'Fantasy']",5.9,Comedy,1993.0,103
+1327,Secondhand Lions,http://www.imdb.com/title/tt0327137/,19 September 2003,1h 49min,"['Comedy', 'Drama', 'Family']",7.6,Comedy,2003.0,109
+1334,Raising Helen,http://www.imdb.com/title/tt0350028/,28 May 2004,1h 59min,"['Comedy', 'Drama', 'Romance']",6.0,RomCom,2004.0,119
+1349,Big Momma's House 2,http://www.imdb.com/title/tt0421729/,27 January 2006,1h 39min,"['Comedy', 'Crime']",4.6,Comedy,2006.0,99
+1353,Final Destination 3,http://www.imdb.com/title/tt0414982/,10 February 2006,1h 33min,['Horror'],5.8,Horror,2006.0,93
+1356,Nanny McPhee,http://www.imdb.com/title/tt0396752/,27 January 2006,1h 37min,"['Comedy', 'Family', 'Fantasy']",6.6,Comedy,2006.0,97
+1401,Nine,http://www.imdb.com/title/tt0875034/,25 December 2009,1h 58min,"['Drama', 'Musical', 'Romance']",5.8,Romance,2009.0,118
+1426,Martha Marcy May Marlene,http://www.imdb.com/title/tt1441326/,21 December 2011,1h 42min,"['Drama', 'Mystery', 'Thriller']",6.9,Drama,2011.0,102
+1429,Stake Land,http://www.imdb.com/title/tt1464580/,17 June 2011,1h 38min,"['Drama', 'Horror', 'Sci-Fi']",6.5,Sci-Fi/Fantasy,2011.0,98
+1478,A River Runs Through It,http://www.imdb.com/title/tt0105265/,30 October 1992,2h 3min,['Drama'],7.3,Drama,1992.0,123
+1481,Dennis the Menace,http://www.imdb.com/title/tt0106701/,25 June 1993,1h 34min,"['Comedy', 'Family']",5.5,Comedy,1993.0,94
+1492,Spawn,http://www.imdb.com/title/tt0120177/,1 August 1997,1h 36min,"['Action', 'Horror']",5.2,Horror,1997.0,96
+1493,Great Expectations,http://www.imdb.com/title/tt0119223/,30 January 1998,1h 51min,"['Drama', 'Romance']",6.8,Romance,1998.0,111
+1500,Arlington Road,http://www.imdb.com/title/tt0137363/,9 July 1999,1h 57min,"['Crime', 'Drama', 'Thriller']",7.2,Crime,1999.0,117
+1520,Two Weeks Notice,http://www.imdb.com/title/tt0313737/,20 December 2002,1h 41min,"['Comedy', 'Romance']",6.1,RomCom,2002.0,101
+1546,We Are Marshall,http://www.imdb.com/title/tt0758794/,22 December 2006,2h 11min,"['Drama', 'Sport']",7.1,Drama,2006.0,131
+1568,My Best Friend's Girl,http://www.imdb.com/title/tt1046163/,19 September 2008,1h 41min,"['Comedy', 'Romance']",5.9,RomCom,2008.0,101
+1572,The Secret Life of Bees,http://www.imdb.com/title/tt0416212/,17 October 2008,1h 54min,['Drama'],7.3,Drama,2008.0,114
+1574,Extract,http://www.imdb.com/title/tt1225822/,4 September 2009,1h 32min,"['Comedy', 'Crime', 'Romance']",6.2,RomCom,2009.0,92
+1576,Hannah Montana: The Movie,http://www.imdb.com/title/tt1114677/,10 April 2009,1h 42min,"['Comedy', 'Drama', 'Family']",4.2,Comedy,2009.0,102
+1615,Chalet Girl,http://www.imdb.com/title/tt1487118/,14 October 2011,1h 37min,"['Comedy', 'Romance', 'Sport']",6.3,RomCom,2011.0,97
+1616,The Human Centipede II (Full Sequence),http://www.imdb.com/title/tt1530509/,2011,1h 31min,['Horror'],3.9,Horror,2011.0,91
+1617,Damsels in Distress,http://www.imdb.com/title/tt1667307/,26 April 2012,1h 39min,"['Comedy', 'Drama', 'Romance']",5.7,RomCom,2012.0,99
+1628,Exam,http://www.imdb.com/title/tt1258197/,17 June 2010,1h 41min,"['Mystery', 'Thriller']",6.9,Undefined,2010.0,101
+1635,Spread,http://www.imdb.com/title/tt1186370/,8 July 2009,1h 37min,"['Comedy', 'Drama', 'Romance']",5.9,RomCom,2009.0,97
+1641,Billy Elliot,http://www.imdb.com/title/tt0249462/,10 November 2000,1h 50min,"['Drama', 'Music', 'Romance']",7.7,Romance,2000.0,110
+1648,Lost River,http://www.imdb.com/title/tt2366608/,10 April 2015,1h 35min,"['Drama', 'Fantasy', 'Mystery']",5.8,Sci-Fi/Fantasy,2015.0,95
+1655,Up in Smoke,http://www.imdb.com/title/tt0078446/,15 September 1978,1h 26min,"['Comedy', 'Music']",7.0,Comedy,1978.0,86
+1660,Better Off Dead...,http://www.imdb.com/title/tt0088794/,11 October 1985,1h 37min,"['Comedy', 'Romance']",7.2,RomCom,1985.0,97
+1667,Child's Play,http://www.imdb.com/title/tt0094862/,9 November 1988,1h 27min,"['Horror', 'Thriller']",6.5,Horror,1988.0,87
+1678,Super Mario Bros.,http://www.imdb.com/title/tt0108255/,28 May 1993,1h 44min,"['Adventure', 'Comedy', 'Family']",4.0,Comedy,1993.0,104
+1708,The Replacements,http://www.imdb.com/title/tt0191397/,11 August 2000,1h 58min,"['Comedy', 'Sport']",6.5,Comedy,2000.0,118
+1710,Evolution,http://www.imdb.com/title/tt0251075/,8 June 2001,1h 41min,"['Comedy', 'Sci-Fi']",6.0,Comedy,2001.0,101
+1711,Exit Wounds,http://www.imdb.com/title/tt0242445/,16 March 2001,1h 41min,"['Action', 'Comedy', 'Crime']",5.5,Comedy,2001.0,101
+1731,Out of Time,http://www.imdb.com/title/tt0313443/,3 October 2003,1h 45min,"['Crime', 'Drama', 'Mystery']",6.5,Crime,2003.0,105
+1735,First Daughter,http://www.imdb.com/title/tt0361620/,24 September 2004,1h 46min,"['Comedy', 'Drama', 'Romance']",5.0,RomCom,2004.0,106
+1740,Be Cool,http://www.imdb.com/title/tt0377471/,4 March 2005,1h 58min,"['Comedy', 'Crime', 'Music']",5.7,Comedy,2005.0,118
+1741,Hide and Seek,http://www.imdb.com/title/tt0382077/,28 January 2005,1h 41min,"['Drama', 'Horror', 'Mystery']",5.9,Horror,2005.0,101
+1742,Hostage,http://www.imdb.com/title/tt0340163/,11 March 2005,1h 53min,"['Action', 'Crime', 'Drama']",6.6,Crime,2005.0,113
+1755,Gridiron Gang,http://www.imdb.com/title/tt0421206/,15 September 2006,2h 5min,"['Crime', 'Drama', 'Sport']",6.9,Crime,2006.0,125
+1766,Perfect Stranger,http://www.imdb.com/title/tt0457433/,13 April 2007,1h 49min,"['Crime', 'Mystery', 'Thriller']",5.7,Crime,2007.0,109
+1785,Saw VI,http://www.imdb.com/title/tt1233227/,23 October 2009,1h 30min,"['Horror', 'Mystery']",6.0,Horror,2009.0,90
+1787,Ramona and Beezus,http://www.imdb.com/title/tt0493949/,23 July 2010,1h 43min,"['Adventure', 'Comedy', 'Family']",6.7,Comedy,2010.0,103
+1818,After.Life,http://www.imdb.com/title/tt0838247/,26 August 2010,1h 44min,"['Drama', 'Horror', 'Mystery']",5.9,Horror,2010.0,104
+1829,Trick 'r Treat,http://www.imdb.com/title/tt0862856/,9 December 2007,1h 22min,"['Horror', 'Thriller']",6.8,Horror,2007.0,82
+1831,Before the Devil Knows You're Dead,http://www.imdb.com/title/tt0292963/,26 October 2007,1h 57min,"['Crime', 'Drama', 'Thriller']",7.3,Crime,2007.0,117
+1832,I Could Never Be Your Woman,http://www.imdb.com/title/tt0466839/,11 May 2007,1h 37min,"['Comedy', 'Drama', 'Romance']",6.1,RomCom,2007.0,97
+1833,The Midnight Meat Train,http://www.imdb.com/title/tt0805570/,7 August 2008,1h 40min,"['Horror', 'Mystery']",6.1,Horror,2008.0,100
+1838,Dogville,http://www.imdb.com/title/tt0276919/,23 April 2004,2h 58min,"['Crime', 'Drama']",8.1,Crime,2004.0,178
+1858,Airplane II: The Sequel,http://www.imdb.com/title/tt0083530/,10 December 1982,1h 25min,"['Comedy', 'Sci-Fi']",6.1,Comedy,1982.0,85
+1903,Disclosure,http://www.imdb.com/title/tt0109635/,9 December 1994,2h 8min,"['Drama', 'Thriller']",6.0,Drama,1994.0,128
+1926,Titan A.E.,http://www.imdb.com/title/tt0120913/,16 June 2000,1h 34min,"['Animation', 'Action', 'Adventure']",6.6,Action/Adventure,2000.0,94
+1935,Cold Creek Manor,http://www.imdb.com/title/tt0331468/,19 September 2003,1h 58min,"['Mystery', 'Thriller']",4.9,Undefined,2003.0,118
+1936,Spy Kids 3-D: Game Over,http://www.imdb.com/title/tt0338459/,25 July 2003,1h 24min,"['Action', 'Adventure', 'Comedy']",4.2,Comedy,2003.0,84
+1938,Runaway Jury,http://www.imdb.com/title/tt0313542/,17 October 2003,2h 7min,"['Drama', 'Thriller']",7.1,Drama,2003.0,127
+1949,The Adventures of Sharkboy and Lavagirl 3-D,http://www.imdb.com/title/tt0424774/,10 June 2005,1h 33min,"['Action', 'Adventure', 'Family']",3.5,Action/Adventure,2005.0,93
+1961,The Astronaut Farmer,http://www.imdb.com/title/tt0469263/,23 February 2007,1h 44min,"['Adventure', 'Drama', 'Sci-Fi']",6.3,Sci-Fi/Fantasy,2007.0,104
+1962,Turistas,http://www.imdb.com/title/tt0454970/,1 December 2006,1h 33min,"['Horror', 'Mystery', 'Thriller']",5.3,Horror,2006.0,93
+1971,Nights in Rodanthe,http://www.imdb.com/title/tt0956038/,26 September 2008,1h 37min,"['Drama', 'Romance']",6.0,Romance,2008.0,97
+1979,Everybody's Fine,http://www.imdb.com/title/tt0780511/,4 December 2009,1h 39min,"['Adventure', 'Drama']",7.2,Undefined,2009.0,99
+1996,"Guns, Girls and Gambling",http://www.imdb.com/title/tt1675161/,28 March 2013,1h 30min,"['Crime', 'Thriller']",5.5,Crime,2013.0,90
+2003,The Hit List,http://www.imdb.com/title/tt1575694/,3 April 2011,1h 30min,"['Action', 'Thriller']",5.4,Action/Adventure,2011.0,90
+2004,Girl Walks Into a Bar,http://www.imdb.com/title/tt1682246/,11 March 2011,1h 20min,"['Comedy', 'Drama', 'Romance']",5.8,RomCom,2011.0,80
+2010,The Joneses,http://www.imdb.com/title/tt1285309/,23 April 2010,1h 36min,['Drama'],6.5,Drama,2010.0,96
+2014,Leaves of Grass,http://www.imdb.com/title/tt1151359/,17 September 2010,1h 45min,"['Comedy', 'Crime', 'Drama']",6.5,Comedy,2010.0,105
+2028,Passengers,http://www.imdb.com/title/tt0449487/,24 October 2008,1h 33min,"['Drama', 'Mystery', 'Romance']",5.9,Romance,2008.0,93
+2081,Tank Girl,http://www.imdb.com/title/tt0114614/,31 March 1995,1h 44min,"['Action', 'Comedy', 'Sci-Fi']",5.2,Comedy,1995.0,104
+2090,He Got Game,http://www.imdb.com/title/tt0124718/,1 May 1998,2h 16min,"['Drama', 'Sport']",6.9,Drama,1998.0,136
+2095,Go,http://www.imdb.com/title/tt0139239/,9 April 1999,1h 42min,"['Comedy', 'Crime']",7.3,Comedy,1999.0,102
+2107,Where the Heart Is,http://www.imdb.com/title/tt0198021/,28 April 2000,2h,"['Comedy', 'Drama', 'Romance']",6.8,RomCom,2000.0,120
+2117,Spirit: Stallion of the Cimarron,http://www.imdb.com/title/tt0166813/,24 May 2002,1h 23min,"['Animation', 'Adventure', 'Family']",7.1,Action/Adventure,2002.0,83
+2130,The Forgotten,http://www.imdb.com/title/tt0356618/,24 September 2004,1h 31min,"['Drama', 'Horror', 'Mystery']",5.8,Horror,2004.0,91
+2139,Hustle & Flow,http://www.imdb.com/title/tt0410097/,22 July 2005,1h 56min,"['Crime', 'Drama', 'Music']",7.4,Crime,2005.0,116
+2151,The Ultimate Gift,http://www.imdb.com/title/tt0482629/,9 March 2007,1h 54min,"['Drama', 'Family', 'Romance']",7.4,Romance,2007.0,114
+2157,The Reaping,http://www.imdb.com/title/tt0444682/,5 April 2007,1h 39min,"['Horror', 'Thriller']",5.7,Horror,2007.0,99
+2158,The Water Horse,http://www.imdb.com/title/tt0760329/,25 December 2007,1h 52min,"['Adventure', 'Family', 'Fantasy']",6.5,Sci-Fi/Fantasy,2007.0,112
+2164,Redbelt,http://www.imdb.com/title/tt1012804/,9 May 2008,1h 39min,"['Drama', 'Sport']",6.8,Drama,2008.0,99
+2206,The Maiden Heist,http://www.imdb.com/title/tt1107860/,8 July 2010,1h 30min,"['Comedy', 'Crime']",6.1,Comedy,2010.0,90
+2210,The Disappearance of Alice Creed,http://www.imdb.com/title/tt1379177/,30 April 2010,1h 33min,"['Crime', 'Thriller']",6.8,Crime,2010.0,93
+2222,Chaos Theory,http://www.imdb.com/title/tt0460745/,16 October 2008,1h 27min,"['Comedy', 'Drama', 'Romance']",6.7,RomCom,2008.0,87
+2234,The Human Stain,http://www.imdb.com/title/tt0308383/,31 October 2003,1h 46min,"['Drama', 'Romance', 'Thriller']",6.3,Romance,2003.0,106
+2238,"The Adventures of Priscilla, Queen of the Desert",http://www.imdb.com/title/tt0109045/,10 August 1994,1h 44min,"['Comedy', 'Music']",7.5,Comedy,1994.0,104
+2248,Puberty Blues,http://www.imdb.com/title/tt0082956/,10 December 1981,1h 27min,"['Comedy', 'Drama']",5.8,Comedy,1981.0,87
+2283,Boomerang,http://www.imdb.com/title/tt0103859/,1 July 1992,1h 57min,"['Comedy', 'Drama', 'Romance']",5.4,RomCom,1992.0,117
+2297,Mighty Morphin Power Rangers: The Movie,http://www.imdb.com/title/tt0113820/,30 June 1995,1h 35min,"['Action', 'Adventure', 'Family']",5.1,Action/Adventure,1995.0,95
+2317,Bicentennial Man,http://www.imdb.com/title/tt0182789/,17 December 1999,2h 12min,"['Comedy', 'Drama', 'Sci-Fi']",6.8,Comedy,1999.0,132
+2319,The General's Daughter,http://www.imdb.com/title/tt0144214/,18 June 1999,1h 56min,"['Crime', 'Drama', 'Mystery']",6.3,Crime,1999.0,116
+2324,The Majestic,http://www.imdb.com/title/tt0268995/,21 December 2001,2h 32min,"['Drama', 'Romance']",6.9,Romance,2001.0,152
+2337,"Legally Blonde 2: Red, White & Blonde",http://www.imdb.com/title/tt0333780/,2 July 2003,1h 35min,['Comedy'],4.6,Comedy,2003.0,95
+2347,Man of the House,http://www.imdb.com/title/tt0331933/,25 February 2005,1h 40min,"['Action', 'Comedy']",5.4,Comedy,2005.0,100
+2360,Curious George,http://www.imdb.com/title/tt0381971/,10 February 2006,1h 26min,"['Animation', 'Adventure', 'Comedy']",6.6,Comedy,2006.0,86
+2363,Van Wilder 2: The Rise of Taj,http://www.imdb.com/title/tt0480271/,1 December 2006,1h 37min,"['Comedy', 'Romance']",4.8,RomCom,2006.0,97
+2388,The Caller,http://www.imdb.com/title/tt1525890/,22 February 2013,1h 32min,['Thriller'],6.1,Undefined,2013.0,92
+2392,Beneath the Darkness,http://www.imdb.com/title/tt1781775/,22 March 2012,1h 36min,"['Horror', 'Thriller']",4.5,Horror,2012.0,96
+2417,Pathology,http://www.imdb.com/title/tt0964539/,11 April 2008,1h 35min,"['Crime', 'Horror', 'Thriller']",6.0,Crime,2008.0,95
+2419,The Wackness,http://www.imdb.com/title/tt1082886/,1 August 2008,1h 39min,"['Comedy', 'Drama', 'Romance']",7.0,RomCom,2008.0,99
+2448,The Gods Must Be Crazy,http://www.imdb.com/title/tt0080801/,26 October 1984,1h 49min,['Comedy'],7.3,Comedy,1984.0,109
+2457,Suspiria,http://www.imdb.com/title/tt0076786/,12 August 1977,1h 32min,['Horror'],7.5,Horror,1977.0,92
+2485,New Nightmare,http://www.imdb.com/title/tt0111686/,14 October 1994,1h 52min,"['Fantasy', 'Horror', 'Mystery']",6.4,Sci-Fi/Fantasy,1994.0,112
+2504,Vegas Vacation,http://www.imdb.com/title/tt0120434/,14 February 1997,1h 33min,['Comedy'],5.9,Comedy,1997.0,93
+2513,For Love of the Game,http://www.imdb.com/title/tt0126916/,17 September 1999,2h 17min,"['Drama', 'Romance', 'Sport']",6.5,Romance,1999.0,137
+2521,Proof of Life,http://www.imdb.com/title/tt0228750/,8 December 2000,2h 15min,"['Action', 'Drama', 'Thriller']",6.2,Undefined,2000.0,135
+2522,The Way of the Gun,http://www.imdb.com/title/tt0202677/,8 September 2000,1h 59min,"['Action', 'Crime', 'Drama']",6.7,Crime,2000.0,119
+2532,Femme Fatale,http://www.imdb.com/title/tt0280665/,6 November 2002,1h 54min,"['Crime', 'Drama', 'Mystery']",6.3,Crime,2002.0,114
+2533,Formula 51,http://www.imdb.com/title/tt0227984/,18 October 2002,1h 33min,"['Action', 'Comedy', 'Crime']",6.3,Comedy,2002.0,93
+2562,Love in the Time of Cholera,http://www.imdb.com/title/tt0484740/,16 November 2007,2h 19min,"['Drama', 'Romance']",6.4,Romance,2007.0,139
+2569,The Pink Panther 2,http://www.imdb.com/title/tt0838232/,6 February 2009,1h 32min,"['Adventure', 'Comedy', 'Crime']",5.5,Comedy,2009.0,92
+2575,Berberian Sound Studio,http://www.imdb.com/title/tt1833844/,31 August 2012,1h 32min,"['Drama', 'Horror', 'Thriller']",6.2,Horror,2012.0,92
+2581,The Decoy Bride,http://www.imdb.com/title/tt1657299/,9 March 2012,1h 29min,"['Comedy', 'Drama', 'Romance']",6.2,RomCom,2012.0,89
+2585,Twixt,http://www.imdb.com/title/tt1756851/,11 April 2012,1h 28min,"['Comedy', 'Fantasy', 'Horror']",4.8,Comedy,2012.0,88
+2586,Restless,http://www.imdb.com/title/tt1498569/,6 April 2011,1h 31min,"['Drama', 'Romance']",6.8,Romance,2011.0,91
+2593,Birdemic: Shock and Terror,http://www.imdb.com/title/tt1316037/,27 February 2010,1h 45min,"['Horror', 'Romance', 'Thriller']",1.8,Romance,2010.0,105
+2596,And Soon the Darkness,http://www.imdb.com/title/tt1391034/,11 February 2011,1h 31min,"['Crime', 'Horror', 'Mystery']",5.2,Crime,2011.0,91
+2608,St Trinian's II: The Legend of Fritton's Gold,http://www.imdb.com/title/tt1210106/,18 December 2009,1h 46min,"['Adventure', 'Comedy']",5.4,Comedy,2009.0,106
+2616,Savage Grace,http://www.imdb.com/title/tt0379976/,25 January 2008,1h 37min,['Drama'],5.9,Drama,2008.0,97
+2623,Starship Troopers 3: Marauder,http://www.imdb.com/title/tt0844760/,5 August 2008,1h 45min,"['Action', 'Adventure', 'Sci-Fi']",4.3,Sci-Fi/Fantasy,2008.0,105
+2628,The Poker House,http://www.imdb.com/title/tt1014806/,2008,1h 33min,['Drama'],6.5,Drama,2008.0,93
+2630,All the Boys Love Mandy Lane,http://www.imdb.com/title/tt0490076/,6 September 2013,1h 30min,['Horror'],5.6,Horror,2013.0,90
+2632,Happy-Go-Lucky,http://www.imdb.com/title/tt1045670/,21 November 2008,1h 58min,"['Comedy', 'Drama', 'Romance']",7.0,RomCom,2008.0,118
+2635,Dog Soldiers,http://www.imdb.com/title/tt0280609/,10 May 2002,1h 45min,"['Action', 'Fantasy', 'Horror']",6.8,Sci-Fi/Fantasy,2002.0,105
+2668,National Lampoon's European Vacation,http://www.imdb.com/title/tt0089670/,26 July 1985,1h 35min,"['Adventure', 'Comedy']",6.1,Comedy,1985.0,95
+2680,Working Girl,http://www.imdb.com/title/tt0096463/,21 December 1988,1h 53min,"['Comedy', 'Drama', 'Romance']",6.7,RomCom,1988.0,113
+2694,Poetic Justice,http://www.imdb.com/title/tt0107840/,23 July 1993,1h 49min,"['Drama', 'Romance']",5.9,Romance,1993.0,109
+2713,Daylight,http://www.imdb.com/title/tt0116040/,6 December 1996,1h 54min,"['Action', 'Adventure', 'Drama']",5.8,Undefined,1996.0,114
+2722,Detroit Rock City,http://www.imdb.com/title/tt0165710/,13 August 1999,1h 35min,"['Comedy', 'Music']",6.8,Comedy,1999.0,95
+2723,Jawbreaker,http://www.imdb.com/title/tt0155776/,19 February 1999,1h 27min,"['Comedy', 'Crime', 'Thriller']",5.5,Comedy,1999.0,87
+2736,Impostor,http://www.imdb.com/title/tt0160399/,4 January 2002,1h 35min,"['Drama', 'Mystery', 'Sci-Fi']",6.2,Sci-Fi/Fantasy,2002.0,95
+2749,Looney Tunes: Back in Action,http://www.imdb.com/title/tt0318155/,14 November 2003,1h 31min,"['Animation', 'Action', 'Adventure']",5.7,Action/Adventure,2003.0,91
+2752,Torque,http://www.imdb.com/title/tt0329691/,16 January 2004,1h 24min,"['Action', 'Comedy', 'Crime']",4.0,Comedy,2004.0,84
+2755,Son of the Mask,http://www.imdb.com/title/tt0362165/,18 February 2005,1h 34min,"['Comedy', 'Family', 'Fantasy']",2.2,Comedy,2005.0,94
+2758,Prime,http://www.imdb.com/title/tt0387514/,28 October 2005,1h 45min,"['Comedy', 'Drama', 'Romance']",6.2,RomCom,2005.0,105
+2765,The Last Mimzy,http://www.imdb.com/title/tt0768212/,23 March 2007,1h 30min,"['Family', 'Sci-Fi']",6.3,Sci-Fi/Fantasy,2007.0,90
+2773,Miracle at St. Anna,http://www.imdb.com/title/tt1046997/,26 September 2008,2h 40min,"['Action', 'Crime', 'Drama']",6.0,Crime,2008.0,160
+2781,"3, 2, 1... Frankie Go Boom",http://www.imdb.com/title/tt1772271/,10 March 2012,1h 29min,['Comedy'],6.0,Comedy,2012.0,89
+2787,Children of the Corn: Genesis,http://www.imdb.com/title/tt1745672/,17 March 2012,1h 20min,"['Horror', 'Thriller']",3.8,Horror,2012.0,80
+2817,The Savages,http://www.imdb.com/title/tt0775529/,1 February 2008,1h 53min,"['Comedy', 'Drama']",7.2,Comedy,2008.0,113
+2827,Mean Machine,http://www.imdb.com/title/tt0291341/,26 December 2001,1h 39min,"['Comedy', 'Crime', 'Drama']",6.5,Comedy,2001.0,99
+2840,Fresh,http://www.imdb.com/title/tt0109842/,2 September 1994,1h 54min,"['Crime', 'Drama', 'Thriller']",7.7,Crime,1994.0,114
+2847,The Final Countdown,http://www.imdb.com/title/tt0080736/,1 August 1980,1h 43min,"['Action', 'Sci-Fi']",6.7,Sci-Fi/Fantasy,1980.0,103
+2872,Colors,http://www.imdb.com/title/tt0094894/,29 April 1988,2h,"['Action', 'Crime', 'Drama']",6.7,Crime,1988.0,120
+2878,Hard to Kill,http://www.imdb.com/title/tt0099739/,9 February 1990,1h 36min,"['Action', 'Crime', 'Drama']",5.7,Crime,1990.0,96
+2880,Problem Child,http://www.imdb.com/title/tt0100419/,27 July 1990,1h 21min,"['Comedy', 'Family']",5.3,Comedy,1990.0,81
+2888,Baby's Day Out,http://www.imdb.com/title/tt0109190/,1 July 1994,1h 39min,"['Adventure', 'Comedy', 'Crime']",5.9,Comedy,1994.0,99
+2890,The Jungle Book,http://www.imdb.com/title/tt0110213/,30 December 1994,1h 51min,"['Adventure', 'Family', 'Romance']",6.0,Romance,1994.0,111
+2908,Double Team,http://www.imdb.com/title/tt0119013/,4 April 1997,1h 33min,"['Action', 'Comedy', 'Sci-Fi']",4.7,Comedy,1997.0,93
+2914,The Best Man,http://www.imdb.com/title/tt0168501/,22 October 1999,2h,"['Comedy', 'Drama']",6.7,Comedy,1999.0,120
+2948,Win a Date with Tad Hamilton!,http://www.imdb.com/title/tt0335559/,23 January 2004,1h 35min,"['Comedy', 'Romance']",5.6,RomCom,2004.0,95
+2976,The Moth Diaries,http://www.imdb.com/title/tt1407065/,17 May 2012,1h 22min,"['Drama', 'Fantasy', 'Horror']",4.9,Sci-Fi/Fantasy,2012.0,82
+2980,How to Make Love to a Woman,http://www.imdb.com/title/tt1241017/,2010,1h 31min,['Comedy'],4.2,Comedy,2010.0,91
+2982,BloodRayne: The Third Reich,http://www.imdb.com/title/tt1153546/,17 March 2012,1h 19min,"['Action', 'Adventure', 'Fantasy']",3.0,Sci-Fi/Fantasy,2012.0,79
+2994,Five Minutes of Heaven,http://www.imdb.com/title/tt1238291/,27 February 2009,1h 29min,"['Drama', 'Thriller']",6.7,Drama,2009.0,89
+2997,Cougar Club,http://www.imdb.com/title/tt0795361/,13 November 2007,1h 33min,['Comedy'],4.2,Comedy,2007.0,93
+3013,Bambi II,http://www.imdb.com/title/tt0447854/,26 January 2006,1h 15min,"['Animation', 'Drama', 'Family']",6.1,Drama,2006.0,75
+3026,Cube²: Hypercube,http://www.imdb.com/title/tt0285492/,15 April 2003,1h 34min,"['Sci-Fi', 'Thriller']",5.6,Sci-Fi/Fantasy,2003.0,94
+3054,The Day of the Jackal,http://www.imdb.com/title/tt0069947/,30 July 1973,2h 23min,"['Crime', 'Drama', 'Thriller']",7.8,Crime,1973.0,143
+3058,Death Wish,http://www.imdb.com/title/tt0071402/,24 July 1974,1h 33min,"['Action', 'Crime', 'Drama']",7.0,Crime,1974.0,93
+3059,Zardoz,http://www.imdb.com/title/tt0070948/,6 February 1974,1h 45min,"['Fantasy', 'Sci-Fi']",5.8,Sci-Fi/Fantasy,1974.0,105
+3062,Watership Down,http://www.imdb.com/title/tt0078480/,1 November 1978,1h 31min,"['Animation', 'Adventure', 'Drama']",7.7,Undefined,1978.0,91
+3063,The Amityville Horror,http://www.imdb.com/title/tt0078767/,27 July 1979,1h 57min,['Horror'],6.2,Horror,1979.0,117
+3076,Critters,http://www.imdb.com/title/tt0090887/,11 April 1986,1h 22min,"['Action', 'Comedy', 'Horror']",6.0,Comedy,1986.0,82
+3101,Just Cause,http://www.imdb.com/title/tt0113501/,17 February 1995,1h 42min,"['Action', 'Crime', 'Drama']",6.4,Crime,1995.0,102
+3114,A Civil Action,http://www.imdb.com/title/tt0120633/,8 January 1999,1h 55min,['Drama'],6.5,Drama,1999.0,115
+3155,Things We Lost in the Fire,http://www.imdb.com/title/tt0469623/,19 October 2007,1h 58min,['Drama'],7.2,Drama,2007.0,118
+3170,Bloomington,http://www.imdb.com/title/tt1409004/,23 June 2010,1h 23min,['Drama'],6.1,Drama,2010.0,83
+3173,The Limits of Control,http://www.imdb.com/title/tt1135092/,19 September 2009,1h 56min,"['Crime', 'Drama', 'Mystery']",6.3,Crime,2009.0,116
+3204,Edison,http://www.imdb.com/title/tt0389957/,11 November 2005,1h 39min,"['Action', 'Crime', 'Drama']",5.3,Crime,2005.0,99
+3211,Garden Party,http://www.imdb.com/title/tt0828393/,30 May 2008,1h 28min,['Drama'],5.7,Drama,2008.0,88
+3222,The United States of Leland,http://www.imdb.com/title/tt0301976/,25 March 2005,1h 48min,['Drama'],7.1,Drama,2005.0,108
+3237,The Player,http://www.imdb.com/title/tt0105151/,8 May 1992,2h 4min,"['Comedy', 'Crime', 'Drama']",7.6,Comedy,1992.0,124
+3238,Teen Witch,http://www.imdb.com/title/tt0098453/,28 April 1989,1h 30min,"['Comedy', 'Family', 'Fantasy']",6.2,Comedy,1989.0,90
+3241,Near Dark,http://www.imdb.com/title/tt0093605/,1988,1h 34min,"['Action', 'Crime', 'Drama']",7.0,Crime,1988.0,94
+3289,Highlander II: The Quickening,http://www.imdb.com/title/tt0102034/,1 November 1991,1h 31min,"['Action', 'Adventure', 'Fantasy']",4.1,Sci-Fi/Fantasy,1991.0,91
+3300,Blank Check,http://www.imdb.com/title/tt0109287/,11 February 1994,1h 33min,"['Comedy', 'Crime', 'Family']",5.2,Comedy,1994.0,93
+3308,Mulholland Falls,http://www.imdb.com/title/tt0117107/,26 April 1996,1h 47min,"['Crime', 'Drama', 'Mystery']",6.2,Crime,1996.0,107
+3314,Dirty Work,http://www.imdb.com/title/tt0120654/,12 June 1998,1h 22min,['Comedy'],6.4,Comedy,1998.0,82
+3325,Loser,http://www.imdb.com/title/tt0217630/,21 July 2000,1h 38min,"['Comedy', 'Romance']",5.3,RomCom,2000.0,98
+3332,Love Don't Cost a Thing,http://www.imdb.com/title/tt0337592/,12 December 2003,1h 40min,"['Comedy', 'Romance', 'Drama']",5.1,RomCom,2003.0,100
+3336,Thunderbirds,http://www.imdb.com/title/tt0167456/,30 July 2004,1h 35min,"['Action', 'Adventure', 'Comedy']",4.2,Comedy,2004.0,95
+3337,Boogeyman,http://www.imdb.com/title/tt0357507/,4 February 2005,1h 29min,"['Drama', 'Horror', 'Mystery']",4.1,Horror,2005.0,89
+3359,Elena Undone,http://www.imdb.com/title/tt1575539/,25 June 2010,1h 51min,"['Drama', 'Romance']",6.4,Romance,2010.0,111
+3373,To Save a Life,http://www.imdb.com/title/tt1270286/,11 November 2010,2h,['Drama'],7.1,Drama,2010.0,120
+3404,Kenny,http://www.imdb.com/title/tt0822389/,11 July 2008,1h 39min,['Comedy'],7.3,Comedy,2008.0,99
+3423,Crimes and Misdemeanors,http://www.imdb.com/title/tt0097123/,3 November 1989,1h 44min,"['Comedy', 'Crime', 'Drama']",8.0,Comedy,1989.0,104
+3425,Howards End,http://www.imdb.com/title/tt0104454/,26 February 1993,2h 20min,"['Drama', 'Romance']",7.5,Romance,1993.0,140
+3435,Thief,http://www.imdb.com/title/tt0083190/,27 March 1981,2h 2min,"['Action', 'Crime', 'Drama']",7.4,Crime,1981.0,122
+3444,Pumping Iron,http://www.imdb.com/title/tt0076578/,31 March 1978,1h 25min,"['Documentary', 'Sport']",7.5,Documentary/Biography,1978.0,85
+3465,Hellbound: Hellraiser II,http://www.imdb.com/title/tt0095294/,23 December 1988,1h 37min,"['Horror', 'Thriller']",6.5,Horror,1988.0,97
+3468,Oscar,http://www.imdb.com/title/tt0102603/,26 April 1991,1h 49min,"['Comedy', 'Crime']",6.4,Comedy,1991.0,109
+3474,Threesome,http://www.imdb.com/title/tt0111418/,8 April 1994,1h 29min,"['Comedy', 'Romance', 'Drama']",6.2,RomCom,1994.0,89
+3476,2 Days in the Valley,http://www.imdb.com/title/tt0115438/,27 September 1996,1h 44min,"['Comedy', 'Crime', 'Thriller']",6.5,Comedy,1996.0,104
+3478,Flipper,http://www.imdb.com/title/tt0116322/,17 May 1996,1h 35min,"['Family', 'Adventure']",5.2,Action/Adventure,1996.0,95
+3482,Michael,http://www.imdb.com/title/tt0117038/,25 December 1996,1h 45min,"['Comedy', 'Drama', 'Fantasy']",5.7,Comedy,1996.0,105
+3487,Dick,http://www.imdb.com/title/tt0144168/,4 August 1999,1h 34min,['Comedy'],6.1,Comedy,1999.0,94
+3493,Glitter,http://www.imdb.com/title/tt0118589/,21 September 2001,1h 44min,"['Drama', 'Music', 'Romance']",2.2,Romance,2001.0,104
+3536,Solstice,http://www.imdb.com/title/tt0473267/,1 January 2008,1h 31min,"['Horror', 'Mystery']",5.4,Horror,2008.0,91
+3551,The Mighty,http://www.imdb.com/title/tt0119670/,30 October 1998,1h 40min,"['Comedy', 'Drama']",7.3,Comedy,1998.0,100
+3579,Iron Eagle,http://www.imdb.com/title/tt0091278/,17 January 1986,1h 57min,"['Action', 'Thriller', 'War']",5.3,Action/Adventure,1986.0,117
+3583,Death Warrant,http://www.imdb.com/title/tt0099385/,14 September 1990,1h 29min,"['Action', 'Crime', 'Mystery']",5.6,Crime,1990.0,89
+3589,The Getaway,http://www.imdb.com/title/tt0109890/,11 February 1994,1h 55min,"['Action', 'Adventure', 'Crime']",5.7,Crime,1994.0,115
+3590,Renaissance Man,http://www.imdb.com/title/tt0110971/,3 June 1994,2h 8min,"['Comedy', 'Drama']",6.1,Comedy,1994.0,128
+3597,Simply Irresistible,http://www.imdb.com/title/tt0145893/,5 February 1999,1h 36min,"['Comedy', 'Drama', 'Fantasy']",5.3,Comedy,1999.0,96
+3602,One Night at McCool's,http://www.imdb.com/title/tt0203755/,27 April 2001,1h 33min,"['Comedy', 'Crime']",6.1,Comedy,2001.0,93
+3609,Creature,http://www.imdb.com/title/tt1686018/,9 September 2011,1h 33min,['Horror'],3.7,Horror,2011.0,93
+3611,Keith Lemon: The Film,http://www.imdb.com/title/tt2147365/,24 August 2012,1h 25min,['Comedy'],2.6,Comedy,2012.0,85
+3624,Asterix and the Vikings,http://www.imdb.com/title/tt0371552/,19 May 2006,1h 18min,"['Animation', 'Adventure', 'Comedy']",6.0,Comedy,2006.0,78
+3642,State of Grace,http://www.imdb.com/title/tt0100685/,14 September 1990,2h 14min,"['Action', 'Crime', 'Drama']",7.3,Crime,1990.0,134
+3644,At Close Range,http://www.imdb.com/title/tt0090670/,18 April 1986,1h 51min,"['Crime', 'Drama']",7.0,Crime,1986.0,111
+3669,The China Syndrome,http://www.imdb.com/title/tt0078966/,16 March 1979,2h 2min,"['Drama', 'Thriller']",7.4,Drama,1979.0,122
+3677,April Fool's Day,http://www.imdb.com/title/tt0090655/,28 March 1986,1h 29min,"['Horror', 'Mystery']",6.2,Horror,1986.0,89
+3682,The Hidden,http://www.imdb.com/title/tt0093185/,30 October 1987,1h 36min,"['Action', 'Crime', 'Horror']",7.0,Crime,1987.0,96
+3709,Ready to Wear,http://www.imdb.com/title/tt0110907/,25 December 1994,2h 13min,"['Comedy', 'Drama']",5.0,Comedy,1994.0,133
+3710,The Ref,http://www.imdb.com/title/tt0110955/,11 March 1994,1h 36min,"['Comedy', 'Crime', 'Drama']",6.9,Comedy,1994.0,96
+3717,The Preacher's Wife,http://www.imdb.com/title/tt0117372/,13 December 1996,2h 3min,"['Comedy', 'Drama', 'Fantasy']",5.5,Comedy,1996.0,123
+3724,200 Cigarettes,http://www.imdb.com/title/tt0137338/,26 February 1999,1h 41min,"['Comedy', 'Drama', 'Romance']",5.9,RomCom,1999.0,101
+3729,The Adventures of Rocky & Bullwinkle,http://www.imdb.com/title/tt0131704/,30 June 2000,1h 32min,"['Animation', 'Adventure', 'Comedy']",4.2,Comedy,2000.0,92
+3732,The Watcher,http://www.imdb.com/title/tt0204626/,8 September 2000,1h 37min,"['Crime', 'Horror', 'Mystery']",5.3,Crime,2000.0,97
+3740,Life or Something Like It,http://www.imdb.com/title/tt0282687/,26 April 2002,1h 43min,"['Comedy', 'Romance']",5.8,RomCom,2002.0,103
+3743,Mr 3000,http://www.imdb.com/title/tt0339412/,17 September 2004,1h 44min,"['Comedy', 'Drama', 'Romance']",5.5,RomCom,2004.0,104
+3746,The Lost City,http://www.imdb.com/title/tt0343996/,26 May 2006,2h 24min,"['Drama', 'Romance']",6.7,Romance,2006.0,144
+3747,Unaccompanied Minors,http://www.imdb.com/title/tt0488658/,8 December 2006,1h 30min,"['Adventure', 'Comedy', 'Family']",5.1,Comedy,2006.0,90
+3754,The Viral Factor,http://www.imdb.com/title/tt2063011/,19 January 2012,2h 2min,"['Action', 'Drama', 'Thriller']",6.0,Undefined,2012.0,122
+3768,Adam Resurrected,http://www.imdb.com/title/tt0479341/,12 December 2008,1h 46min,"['Drama', 'War']",6.3,Drama,2008.0,106
+3781,The Tailor of Panama,http://www.imdb.com/title/tt0236784/,30 March 2001,1h 49min,"['Comedy', 'Drama', 'Thriller']",6.1,Comedy,2001.0,109
+3782,Hamlet,http://www.imdb.com/title/tt0171359/,23 June 2000,1h 52min,"['Drama', 'Romance', 'Thriller']",6.0,Romance,2000.0,112
+3793,Poolhall Junkies,http://www.imdb.com/title/tt0273982/,28 February 2003,1h 39min,"['Comedy', 'Drama', 'Sport']",7.0,Comedy,2003.0,99
+3807,Kicking and Screaming,http://www.imdb.com/title/tt0113537/,6 October 1995,1h 36min,"['Comedy', 'Drama', 'Romance']",7.0,RomCom,1995.0,96
+3812,Little Voice,http://www.imdb.com/title/tt0147004/,4 December 1998,1h 37min,"['Comedy', 'Drama', 'Music']",7.0,Comedy,1998.0,97
+3813,Smoke,http://www.imdb.com/title/tt0114478/,9 June 1995,1h 52min,"['Comedy', 'Drama']",7.4,Comedy,1995.0,112
+3815,Kickboxer 3: The Art of War,http://www.imdb.com/title/tt0104609/,27 May 1994,1h 32min,"['Action', 'Sport', 'Thriller']",3.9,Action/Adventure,1994.0,92
+3816,Meet the Feebles,http://www.imdb.com/title/tt0097858/,1 September 1995,1h 37min,"['Comedy', 'Music', 'Musical']",6.7,Comedy,1995.0,97
+3834,Love and Death,http://www.imdb.com/title/tt0073312/,28 August 1975,1h 25min,"['Comedy', 'War']",7.8,Comedy,1975.0,85
+3839,The Legend of Hell House,http://www.imdb.com/title/tt0070294/,15 June 1973,1h 35min,['Horror'],6.8,Horror,1973.0,95
+3840,Deep Red,http://www.imdb.com/title/tt0073582/,11 June 1976,2h 6min,"['Horror', 'Mystery', 'Thriller']",7.7,Horror,1976.0,126
+3852,Dreamscape,http://www.imdb.com/title/tt0087175/,17 August 1984,1h 39min,"['Action', 'Adventure', 'Horror']",6.3,Horror,1984.0,99
+3862,Stakeout,http://www.imdb.com/title/tt0094025/,5 August 1987,1h 57min,"['Comedy', 'Thriller']",6.6,Comedy,1987.0,117
+3874,Eve of Destruction,http://www.imdb.com/title/tt0101831/,18 January 1991,1h 39min,"['Action', 'Sci-Fi', 'Thriller']",4.8,Sci-Fi/Fantasy,1991.0,99
+3879,The Distinguished Gentleman,http://www.imdb.com/title/tt0104114/,4 December 1992,1h 52min,"['Comedy', 'Crime']",5.8,Comedy,1992.0,112
+3884,Beethoven's 2nd,http://www.imdb.com/title/tt0106375/,17 December 1993,1h 29min,"['Comedy', 'Family', 'Romance']",4.8,RomCom,1993.0,89
+3893,With Honors,http://www.imdb.com/title/tt0111732/,29 April 1994,1h 43min,"['Comedy', 'Drama']",6.7,Comedy,1994.0,103
+3917,Hush,http://www.imdb.com/title/tt0118744/,6 March 1998,1h 36min,"['Drama', 'Thriller']",5.3,Drama,1998.0,96
+3931,Two Can Play That Game,http://www.imdb.com/title/tt0269341/,7 September 2001,1h 30min,"['Comedy', 'Romance']",6.1,RomCom,2001.0,90
+3937,From Justin to Kelly,http://www.imdb.com/title/tt0339034/,20 June 2003,1h 21min,"['Comedy', 'Musical', 'Romance']",2.1,RomCom,2003.0,81
+3943,Code Name: The Cleaner,http://www.imdb.com/title/tt0462229/,5 January 2007,1h 24min,"['Action', 'Comedy', 'Crime']",4.5,Comedy,2007.0,84
+3952,Happy Endings,http://www.imdb.com/title/tt0361693/,29 July 2005,2h 8min,"['Comedy', 'Drama', 'Music']",6.5,Comedy,2005.0,128
+3955,The Flock,http://www.imdb.com/title/tt0473356/,4 August 2007,1h 36min,"['Crime', 'Drama', 'Mystery']",5.7,Crime,2007.0,96
+3961,The Other End of the Line,http://www.imdb.com/title/tt1049405/,12 February 2009,1h 46min,"['Comedy', 'Drama', 'Romance']",6.2,RomCom,2009.0,106
+3981,Laurel Canyon,http://www.imdb.com/title/tt0298408/,28 March 2003,1h 43min,['Drama'],6.4,Drama,2003.0,103
+3982,Gangster No. 1,http://www.imdb.com/title/tt0210065/,9 June 2000,1h 43min,"['Crime', 'Drama', 'Thriller']",6.8,Crime,2000.0,103
+3989,Made,http://www.imdb.com/title/tt0227005/,31 August 2001,1h 35min,"['Comedy', 'Crime', 'Drama']",6.4,Comedy,2001.0,95
+3991,Scorched,http://www.imdb.com/title/tt0286947/,9 May 2003,1h 35min,"['Comedy', 'Crime']",6.0,Comedy,2003.0,95
+4016,Galaxina,http://www.imdb.com/title/tt0080771/,6 June 1980,1h 35min,"['Comedy', 'Sci-Fi']",3.5,Comedy,1980.0,95
+4028,Black Christmas,http://www.imdb.com/title/tt0071222/,20 December 1974,1h 38min,"['Horror', 'Mystery', 'Thriller']",7.2,Horror,1974.0,98
+4043,Arabian Nights,http://www.imdb.com/title/tt0071502/,20 June 1974,2h 10min,"['Comedy', 'Drama', 'Fantasy']",6.9,Comedy,1974.0,130
+4045,City Heat,http://www.imdb.com/title/tt0087062/,7 December 1984,1h 33min,"['Action', 'Comedy', 'Crime']",5.4,Comedy,1984.0,93
+4053,Ernest Goes to Camp,http://www.imdb.com/title/tt0092974/,22 May 1987,1h 32min,"['Family', 'Comedy']",5.5,Comedy,1987.0,92
+4055,Malone,http://www.imdb.com/title/tt0093483/,1 May 1987,1h 32min,"['Action', 'Drama', 'Thriller']",5.6,Undefined,1987.0,92
+4057,For Keeps?,http://www.imdb.com/title/tt0095169/,15 January 1988,1h 30min,"['Comedy', 'Drama', 'Romance']",5.8,RomCom,1988.0,90
+4087,Fire Down Below,http://www.imdb.com/title/tt0119123/,5 September 1997,1h 45min,"['Action', 'Drama', 'Thriller']",5.0,Undefined,1997.0,105
+4101,Wing Commander,http://www.imdb.com/title/tt0131646/,12 March 1999,1h 40min,"['Action', 'Adventure', 'Sci-Fi']",4.2,Sci-Fi/Fantasy,1999.0,100
+4107,Dark Blue,http://www.imdb.com/title/tt0279331/,21 February 2003,1h 58min,"['Crime', 'Drama', 'Thriller']",6.6,Crime,2003.0,118
+4111,Loverboy,http://www.imdb.com/title/tt0388213/,28 April 2005,1h 24min,"['Drama', 'Romance']",5.5,Romance,2005.0,84
+4129,Margot at the Wedding,http://www.imdb.com/title/tt0757361/,14 December 2007,1h 31min,"['Comedy', 'Drama']",6.1,Comedy,2007.0,91
+4135,Shadowboxer,http://www.imdb.com/title/tt0396857/,14 July 2006,1h 33min,"['Action', 'Crime', 'Drama']",5.6,Crime,2006.0,93
+4136,Ladies in Lavender,http://www.imdb.com/title/tt0377084/,27 May 2005,1h 44min,"['Drama', 'Music', 'Romance']",7.1,Romance,2005.0,104
+4148,Boy Culture,http://www.imdb.com/title/tt0433350/,31 January 2007,1h 28min,"['Drama', 'Romance']",6.8,Romance,2007.0,88
+4152,Bella,http://www.imdb.com/title/tt0482463/,30 November 2007,1h 31min,"['Drama', 'Romance']",7.3,Romance,2007.0,91
+4177,Legionnaire,http://www.imdb.com/title/tt0126388/,3 December 1998,1h 39min,"['Action', 'Adventure', 'Drama']",5.4,Undefined,1998.0,99
+4189,Robot Jox,http://www.imdb.com/title/tt0102800/,21 November 1990,1h 25min,"['Action', 'Sci-Fi']",5.3,Sci-Fi/Fantasy,1990.0,85
+4208,Trinity,http://www.imdb.com/title/tt1675435/,2017,,"['Drama', 'Romance', 'War']",,Romance,2017.0,0
+4225,Luna,http://www.imdb.com/title/tt0079495/,30 September 1979,2h 22min,['Drama'],6.7,Drama,1979.0,142
+4238,Runaway,http://www.imdb.com/title/tt0088024/,14 December 1984,1h 39min,"['Action', 'Crime', 'Sci-Fi']",5.9,Crime,1984.0,99
+4240,Porky's Revenge,http://www.imdb.com/title/tt0089826/,22 March 1985,1h 32min,['Comedy'],4.6,Comedy,1985.0,92
+4248,My Stepmother Is an Alien,http://www.imdb.com/title/tt0095687/,9 December 1988,1h 45min,"['Comedy', 'Sci-Fi']",5.2,Comedy,1988.0,105
+4262,Jason Goes to Hell: The Final Friday,http://www.imdb.com/title/tt0107254/,13 August 1993,1h 27min,"['Fantasy', 'Horror', 'Thriller']",4.3,Sci-Fi/Fantasy,1993.0,87
+4263,Only the Strong,http://www.imdb.com/title/tt0107750/,27 August 1993,1h 39min,"['Action', 'Drama']",6.7,Undefined,1993.0,99
+4277,Metro,http://www.imdb.com/title/tt0119664/,17 January 1997,1h 57min,"['Action', 'Comedy', 'Crime']",5.5,Comedy,1997.0,117
+4280,How Stella Got Her Groove Back,http://www.imdb.com/title/tt0120703/,14 August 1998,2h 4min,"['Comedy', 'Drama', 'Romance']",5.5,RomCom,1998.0,124
+4285,The Wash,http://www.imdb.com/title/tt0290332/,14 November 2001,1h 33min,['Comedy'],4.6,Comedy,2001.0,93
+4301,The Heart Is Deceitful Above All Things,http://www.imdb.com/title/tt0368774/,19 January 2005,1h 37min,['Drama'],6.6,Drama,2005.0,97
+4302,One-Eyed Monster,http://www.imdb.com/title/tt0988043/,11 November 2008,1h 24min,"['Comedy', 'Horror', 'Sci-Fi']",4.2,Comedy,2008.0,84
+4318,Anamorph,http://www.imdb.com/title/tt0497323/,5 August 2008,1h 47min,"['Crime', 'Horror', 'Thriller']",5.5,Crime,2008.0,107
+4326,Unrest,http://www.imdb.com/title/tt0453533/,24 October 2007,1h 28min,"['Horror', 'Thriller']",5.0,Horror,2007.0,88
+4330,Just Add Water,http://www.imdb.com/title/tt0790723/,18 March 2008,1h 35min,"['Comedy', 'Romance']",5.7,RomCom,2008.0,95
+4337,Stuck,http://www.imdb.com/title/tt0758786/,9 January 2009,1h 25min,"['Crime', 'Drama', 'Thriller']",6.5,Crime,2009.0,85
+4341,Boy Eats Girl,http://www.imdb.com/title/tt0415679/,23 September 2005,1h 20min,"['Comedy', 'Fantasy', 'Horror']",5.1,Comedy,2005.0,80
+4372,Bordello of Blood,http://www.imdb.com/title/tt0117826/,16 August 1996,1h 27min,"['Comedy', 'Fantasy', 'Horror']",5.3,Comedy,1996.0,87
+4374,The Butcher Boy,http://www.imdb.com/title/tt0118804/,20 February 1998,1h 50min,"['Comedy', 'Drama']",7.2,Comedy,1998.0,110
+4395,Eye of the Needle,http://www.imdb.com/title/tt0082351/,24 July 1981,1h 52min,"['Romance', 'Thriller', 'War']",7.1,Romance,1981.0,112
+4401,Stardust Memories,http://www.imdb.com/title/tt0081554/,26 September 1980,1h 29min,"['Comedy', 'Drama']",7.4,Comedy,1980.0,89
+4411,Silent Movie,http://www.imdb.com/title/tt0075222/,16 June 1976,1h 27min,['Comedy'],6.7,Comedy,1976.0,87
+4425,Trail of the Pink Panther,http://www.imdb.com/title/tt0084814/,17 December 1982,1h 36min,"['Comedy', 'Crime', 'Mystery']",4.9,Comedy,1982.0,96
+4435,Firewalker,http://www.imdb.com/title/tt0091055/,21 November 1986,1h 44min,"['Action', 'Adventure', 'Comedy']",4.9,Comedy,1986.0,104
+4437,High Spirits,http://www.imdb.com/title/tt0095304/,18 November 1988,1h 39min,"['Comedy', 'Fantasy']",5.7,Comedy,1988.0,99
+4455,Suburban Commando,http://www.imdb.com/title/tt0103003/,4 October 1991,1h 30min,"['Action', 'Comedy', 'Sci-Fi']",4.3,Comedy,1991.0,90
+4466,Dear God,http://www.imdb.com/title/tt0116059/,1 November 1996,1h 52min,['Comedy'],5.3,Comedy,1996.0,112
+4471,Black Dog,http://www.imdb.com/title/tt0120610/,1 May 1998,1h 29min,"['Action', 'Crime', 'Drama']",5.3,Crime,1998.0,89
+4477,Urban Legends: Final Cut,http://www.imdb.com/title/tt0192731/,22 September 2000,1h 37min,"['Horror', 'Mystery', 'Romance']",4.1,Romance,2000.0,97
+4487,Never Die Alone,http://www.imdb.com/title/tt0354766/,26 March 2004,1h 28min,"['Action', 'Crime', 'Drama']",5.7,Crime,2004.0,88
+4493,Witless Protection,http://www.imdb.com/title/tt1001562/,22 February 2008,1h 37min,"['Comedy', 'Crime']",3.2,Comedy,2008.0,97
+4509,In Search of a Midnight Kiss,http://www.imdb.com/title/tt0989000/,1 August 2008,1h 30min,"['Comedy', 'Romance']",7.3,RomCom,2008.0,90
+4515,Reefer Madness: The Movie Musical,http://www.imdb.com/title/tt0404364/,16 April 2005,1h 52min,"['Comedy', 'Drama', 'Horror']",7.1,Comedy,2005.0,112
+4533,Noel,http://www.imdb.com/title/tt0383534/,26 November 2004,1h 36min,['Drama'],6.3,Drama,2004.0,96
+4560,The Proposition,http://www.imdb.com/title/tt0120108/,27 March 1998,1h 50min,"['Drama', 'Romance']",6.3,Romance,1998.0,110
+4576,The Indian Runner,http://www.imdb.com/title/tt0102116/,20 September 1991,2h 7min,['Drama'],7.2,Drama,1991.0,127
+4578,Angel,http://www.imdb.com/title/tt0086896/,13 January 1984,1h 34min,"['Action', 'Crime', 'Thriller']",5.6,Crime,1984.0,94
+4585,Losin' It,http://www.imdb.com/title/tt0085868/,22 April 1983,1h 40min,"['Comedy', 'Drama']",4.9,Comedy,1983.0,100
+4595,Hidden in the Woods,http://www.imdb.com/title/tt2320388/,2 December 2016,1h 38min,['Thriller'],4.1,Undefined,2016.0,98
+4602,The Crazies,http://www.imdb.com/title/tt0069895/,16 March 1973,1h 43min,"['Action', 'Horror', 'Sci-Fi']",6.1,Sci-Fi/Fantasy,1973.0,103
+4610,Rolling Thunder,http://www.imdb.com/title/tt0076637/,6 February 1978,1h 35min,"['Action', 'Drama', 'Crime']",7.0,Crime,1978.0,95
+4628,Dead Heat,http://www.imdb.com/title/tt0094961/,29 June 1988,1h 26min,"['Action', 'Comedy', 'Horror']",6.0,Comedy,1988.0,86
+4630,Shag,http://www.imdb.com/title/tt0098300/,21 July 1989,1h 38min,"['Comedy', 'Drama', 'Romance']",6.3,RomCom,1989.0,98
+4632,The Russia House,http://www.imdb.com/title/tt0100530/,21 December 1990,2h 3min,"['Drama', 'Romance', 'Thriller']",6.1,Romance,1990.0,123
+4634,Bébé's Kids,http://www.imdb.com/title/tt0103783/,31 July 1992,1h 12min,"['Animation', 'Comedy', 'Fantasy']",5.4,Comedy,1992.0,72
+4653,Before and After,http://www.imdb.com/title/tt0115645/,23 February 1996,1h 48min,"['Crime', 'Drama', 'Mystery']",6.1,Crime,1996.0,108
+4661,Woo,http://www.imdb.com/title/tt0120531/,8 May 1998,1h 24min,"['Comedy', 'Romance']",3.9,RomCom,1998.0,84
+4669,Bless the Child,http://www.imdb.com/title/tt0163983/,11 August 2000,1h 47min,"['Crime', 'Drama', 'Horror']",5.1,Crime,2000.0,107
+4687,Flight of the Living Dead,http://www.imdb.com/title/tt0780583/,24 June 2008,1h 34min,"['Action', 'Horror', 'Sci-Fi']",5.2,Sci-Fi/Fantasy,2008.0,94
+4692,The Wendell Baker Story,http://www.imdb.com/title/tt0373445/,3 August 2005,1h 39min,"['Comedy', 'Drama', 'Romance']",5.5,RomCom,2005.0,99
+4712,Hush,http://www.imdb.com/title/tt1093369/,13 March 2009,1h 31min,"['Horror', 'Thriller']",6.0,Horror,2009.0,91
+4729,Northfork,http://www.imdb.com/title/tt0322659/,1 August 2003,1h 43min,"['Drama', 'Fantasy']",6.4,Sci-Fi/Fantasy,2003.0,103
+4732,Fat Pizza,http://www.imdb.com/title/tt0340110/,10 April 2003,1h 36min,"['Action', 'Adventure', 'Comedy']",6.0,Comedy,2003.0,96
+4734,Tadpole,http://www.imdb.com/title/tt0271219/,23 August 2002,1h 18min,"['Comedy', 'Drama', 'Romance']",6.2,RomCom,2002.0,78
+4738,My Little Eye,http://www.imdb.com/title/tt0280969/,4 October 2002,1h 35min,"['Horror', 'Mystery', 'Thriller']",5.6,Horror,2002.0,95
+4753,It's Pat,http://www.imdb.com/title/tt0110169/,26 August 1994,1h 17min,['Comedy'],2.7,Comedy,1994.0,77
+4755,The Night Flier,http://www.imdb.com/title/tt0119784/,6 February 1998,1h 34min,"['Fantasy', 'Horror', 'Mystery']",6.0,Sci-Fi/Fantasy,1998.0,94
+4762,Firelight,http://www.imdb.com/title/tt0119125/,4 September 1998,1h 43min,"['Romance', 'Drama']",7.3,Romance,1998.0,103
+4765,Love Field,http://www.imdb.com/title/tt0104765/,12 February 1993,1h 42min,['Drama'],6.7,Drama,1993.0,102
+4772,Noises Off...,http://www.imdb.com/title/tt0105017/,20 March 1992,1h 41min,['Comedy'],7.5,Comedy,1992.0,101
+4776,Hard Ticket to Hawaii,http://www.imdb.com/title/tt0093146/,1987,1h 36min,"['Action', 'Thriller']",4.6,Action/Adventure,1987.0,96
+4778,Bagdad Cafe,http://www.imdb.com/title/tt0095801/,22 April 1988,1h 35min,"['Comedy', 'Drama']",7.5,Comedy,1988.0,95
+4820,The Pirate Movie,http://www.imdb.com/title/tt0084504/,6 August 1982,1h 38min,"['Adventure', 'Comedy', 'Musical']",5.1,Comedy,1982.0,98
+4822,Broadway Danny Rose,http://www.imdb.com/title/tt0087003/,27 January 1984,1h 24min,['Comedy'],7.5,Comedy,1984.0,84
+4835,Allan Quatermain and the Lost City of Gold,http://www.imdb.com/title/tt0092534/,30 January 1987,1h 39min,"['Action', 'Adventure', 'Comedy']",4.4,Comedy,1987.0,99
+4843,Monkey Shines,http://www.imdb.com/title/tt0095652/,29 July 1988,1h 53min,"['Drama', 'Horror', 'Sci-Fi']",6.2,Sci-Fi/Fantasy,1988.0,113
+4869,Last of the Dogmen,http://www.imdb.com/title/tt0113617/,8 September 1995,1h 58min,"['Adventure', 'Western']",6.9,Action/Adventure,1995.0,118
+4873,First Kid,http://www.imdb.com/title/tt0116311/,30 August 1996,1h 41min,"['Family', 'Comedy']",5.1,Comedy,1996.0,101
+4890,Bones,http://www.imdb.com/title/tt0166110/,24 October 2001,1h 36min,"['Crime', 'Horror']",4.1,Crime,2001.0,96
+4939,Albino Alligator,http://www.imdb.com/title/tt0115495/,17 January 1997,1h 37min,"['Crime', 'Drama', 'Thriller']",6.1,Crime,1997.0,97
+4947,Class of 1999,http://www.imdb.com/title/tt0099277/,11 May 1990,1h 39min,"['Action', 'Horror', 'Sci-Fi']",5.8,Sci-Fi/Fantasy,1990.0,99
+4957,Repossessed,http://www.imdb.com/title/tt0100475/,14 September 1990,1h 20min,"['Comedy', 'Fantasy', 'Horror']",4.8,Comedy,1990.0,80
+4977,Xtro,http://www.imdb.com/title/tt0086610/,7 January 1983,1h 24min,"['Horror', 'Sci-Fi']",5.5,Sci-Fi/Fantasy,1983.0,84
+5004,Up!,http://www.imdb.com/title/tt0075376/,7 December 1983,1h 20min,['Comedy'],6.1,Comedy,1983.0,80
+5008,Big Wednesday,http://www.imdb.com/title/tt0077235/,3 October 1978,2h,"['Drama', 'Sport']",7.3,Drama,1978.0,120
+5012,The In-Laws,http://www.imdb.com/title/tt0079336/,12 September 1979,1h 43min,"['Adventure', 'Comedy', 'Crime']",7.4,Comedy,1979.0,103
+5020,The Pope of Greenwich Village,http://www.imdb.com/title/tt0087932/,22 June 1984,2h 1min,"['Action', 'Comedy', 'Crime']",6.7,Comedy,1984.0,121
+5026,Volunteers,http://www.imdb.com/title/tt0090274/,16 August 1985,1h 47min,['Comedy'],5.4,Comedy,1985.0,107
+5040,Ernest Goes to Jail,http://www.imdb.com/title/tt0099512/,6 April 1990,1h 21min,"['Comedy', 'Crime', 'Family']",5.4,Comedy,1990.0,81
+5049,Madonna: Truth or Dare,http://www.imdb.com/title/tt0102370/,24 May 1991,2h,"['Documentary', 'Music']",6.1,Documentary/Biography,1991.0,120
+5056,Another Stakeout,http://www.imdb.com/title/tt0106292/,23 July 1993,1h 48min,"['Action', 'Comedy', 'Crime']",5.5,Comedy,1993.0,108
+5071,Diabolique,http://www.imdb.com/title/tt0116095/,22 March 1996,1h 47min,"['Drama', 'Horror', 'Thriller']",5.3,Horror,1996.0,107
+5082,Love Stinks,http://www.imdb.com/title/tt0188863/,10 September 1999,1h 34min,['Comedy'],5.8,Comedy,1999.0,94
+5083,The Next Best Thing,http://www.imdb.com/title/tt0156841/,3 March 2000,1h 48min,"['Comedy', 'Drama', 'Romance']",4.7,RomCom,2000.0,108
+5104,Gun Shy,http://www.imdb.com/title/tt0171356/,4 February 2000,1h 41min,"['Comedy', 'Crime', 'Romance']",5.7,RomCom,2000.0,101
+5105,City of Ghosts,http://www.imdb.com/title/tt0164003/,27 March 2003,1h 56min,"['Crime', 'Drama', 'Thriller']",6.0,Crime,2003.0,116
+5110,I'll Sleep When I'm Dead,http://www.imdb.com/title/tt0319531/,30 April 2004,1h 43min,"['Crime', 'Drama', 'Mystery']",5.9,Crime,2004.0,103
+5111,Evelyn,http://www.imdb.com/title/tt0298856/,25 December 2002,1h 34min,['Drama'],7.0,Drama,2002.0,94
+5119,The Mating Habits of the Earthbound Human,http://www.imdb.com/title/tt0165874/,3 September 1999,1h 28min,"['Comedy', 'Sci-Fi']",6.4,Comedy,1999.0,88
+5146,Last Night,http://www.imdb.com/title/tt0156729/,23 October 1998,1h 35min,"['Comedy', 'Drama', 'Romance']",7.3,RomCom,1998.0,95
+5159,Welcome to Sarajevo,http://www.imdb.com/title/tt0120490/,26 November 1997,1h 43min,"['Drama', 'War']",6.9,Drama,1997.0,103
+5180,Return of the Killer Tomatoes!,http://www.imdb.com/title/tt0095989/,22 April 1988,1h 38min,"['Comedy', 'Horror', 'Sci-Fi']",5.1,Comedy,1988.0,98
+5193,The Town That Dreaded Sundown,http://www.imdb.com/title/tt0075342/,24 December 1976,1h 30min,"['Crime', 'Drama', 'Horror']",6.1,Crime,1976.0,90
+5199,Electra Glide in Blue,http://www.imdb.com/title/tt0070022/,4 October 1973,1h 54min,"['Crime', 'Drama', 'Mystery']",7.2,Crime,1973.0,114
+5202,The Adventure of Sherlock Holmes' Smarter Brother,http://www.imdb.com/title/tt0072608/,14 December 1975,1h 31min,"['Comedy', 'Crime', 'Musical']",6.1,Comedy,1975.0,91
+5207,Bronco Billy,http://www.imdb.com/title/tt0080472/,11 June 1980,1h 56min,"['Action', 'Adventure', 'Comedy']",6.0,Comedy,1980.0,116
+5210,Honkytonk Man,http://www.imdb.com/title/tt0084088/,15 December 1982,2h 2min,"['Comedy', 'Drama', 'Music']",6.6,Comedy,1982.0,122
+5213,Amityville 3-D,http://www.imdb.com/title/tt0085159/,18 November 1983,1h 45min,['Horror'],4.0,Horror,1983.0,105
+5231,Big Top Pee-wee,http://www.imdb.com/title/tt0094744/,22 July 1988,1h 26min,"['Adventure', 'Comedy', 'Romance']",4.9,RomCom,1988.0,86
+5236,Johnny Handsome,http://www.imdb.com/title/tt0097626/,29 September 1989,1h 34min,"['Crime', 'Drama', 'Thriller']",6.1,Crime,1989.0,94
+5264,The Love Letter,http://www.imdb.com/title/tt0166252/,21 May 1999,1h 28min,"['Comedy', 'Drama', 'Romance']",5.4,RomCom,1999.0,88
+5268,Double Take,http://www.imdb.com/title/tt0238948/,12 January 2001,1h 28min,"['Action', 'Comedy', 'Crime']",5.4,Comedy,2001.0,88
+5287,Things You Can Tell Just by Looking at Her,http://www.imdb.com/title/tt0210358/,4 October 2000,1h 49min,"['Drama', 'Romance']",6.6,Romance,2000.0,109
+5306,The Unsaid,http://www.imdb.com/title/tt0258967/,14 September 2001,1h 51min,"['Crime', 'Drama', 'Mystery']",6.7,Crime,2001.0,111
+5312,Dance with the Devil,http://www.imdb.com/title/tt0119879/,31 October 1997,2h 6min,"['Action', 'Crime', 'Horror']",6.3,Crime,1997.0,126
+5317,A Murder of Crows,http://www.imdb.com/title/tt0133985/,6 July 1999,1h 42min,"['Action', 'Crime', 'Thriller']",6.4,Crime,1999.0,102
+5345,Dream Lover,http://www.imdb.com/title/tt0109665/,6 May 1994,1h 43min,"['Drama', 'Mystery', 'Romance']",6.2,Romance,1994.0,103
+5347,The Big Picture,http://www.imdb.com/title/tt0096926/,15 December 1989,1h 40min,"['Comedy', 'Drama', 'Romance']",6.3,RomCom,1989.0,100
+5362,Looker,http://www.imdb.com/title/tt0082677/,30 October 1981,1h 33min,"['Drama', 'Sci-Fi', 'Thriller']",6.1,Sci-Fi/Fantasy,1981.0,93
+5371,The Mountain of the Cannibal God,http://www.imdb.com/title/tt0077945/,13 April 1979,1h 39min,"['Adventure', 'Horror']",5.2,Horror,1979.0,99
+5373,Starcrash,http://www.imdb.com/title/tt0079946/,9 March 1979,1h 32min,"['Action', 'Adventure', 'Sci-Fi']",4.1,Sci-Fi/Fantasy,1979.0,92
+5383,"Farewell, My Lovely",http://www.imdb.com/title/tt0072973/,8 August 1975,1h 35min,"['Crime', 'Mystery', 'Thriller']",7.2,Crime,1975.0,95
+5387,Ivan Vasilievich: Back to the Future,http://www.imdb.com/title/tt0070233/,1973,1h 33min,"['Adventure', 'Comedy', 'Musical']",8.4,Comedy,1973.0,93
+5398,Love at First Bite,http://www.imdb.com/title/tt0079489/,27 April 1979,1h 36min,"['Comedy', 'Horror', 'Romance']",6.1,RomCom,1979.0,96
+5408,Club Paradise,http://www.imdb.com/title/tt0090856/,11 July 1986,1h 36min,['Comedy'],4.9,Comedy,1986.0,96
+5422,Prancer,http://www.imdb.com/title/tt0098115/,17 November 1989,1h 43min,"['Drama', 'Family', 'Fantasy']",6.3,Sci-Fi/Fantasy,1989.0,103
+5430,Sarafina!,http://www.imdb.com/title/tt0105316/,25 September 1992,1h 57min,"['Drama', 'Musical']",6.4,Drama,1992.0,117
+5446,The Beautician and the Beast,http://www.imdb.com/title/tt0118691/,7 February 1997,1h 45min,"['Comedy', 'Romance']",5.3,RomCom,1997.0,105
+5461,What Becomes of the Broken Hearted?,http://www.imdb.com/title/tt0197094/,27 May 1999,1h 48min,"['Crime', 'Drama', 'Thriller']",6.4,Crime,1999.0,108
+5477,The Winslow Boy,http://www.imdb.com/title/tt0155388/,29 October 1999,1h 44min,"['Drama', 'Romance']",7.4,Romance,1999.0,104
+5482,Harrison's Flowers,http://www.imdb.com/title/tt0216799/,15 March 2002,2h 1min,"['Drama', 'Romance', 'War']",7.2,Romance,2002.0,121
+5498,The Real Blonde,http://www.imdb.com/title/tt0119987/,27 February 1998,1h 45min,"['Comedy', 'Drama', 'Romance']",6.0,RomCom,1998.0,105
+5512,Death Machine,http://www.imdb.com/title/tt0109575/,26 May 1995,2h,"['Action', 'Horror', 'Sci-Fi']",5.7,Sci-Fi/Fantasy,1995.0,120
+5520,Intruder,http://www.imdb.com/title/tt0095379/,13 January 1989,1h 23min,"['Horror', 'Mystery', 'Thriller']",6.4,Horror,1989.0,83
+5523,Trust,http://www.imdb.com/title/tt0103130/,20 September 1991,1h 47min,"['Comedy', 'Drama']",7.5,Comedy,1991.0,107
+5556,Chained Heat,http://www.imdb.com/title/tt0085318/,27 May 1983,1h 35min,"['Action', 'Crime', 'Drama']",4.8,Crime,1983.0,95
+5557,Resurrection,http://www.imdb.com/title/tt0081414/,26 September 1980,1h 43min,"['Drama', 'Fantasy']",7.4,Sci-Fi/Fantasy,1980.0,103
+5561,The Octagon,http://www.imdb.com/title/tt0081259/,15 August 1980,1h 43min,"['Action', 'Drama', 'Romance']",5.0,Romance,1980.0,103
+5563,Barbarosa,http://www.imdb.com/title/tt0083619/,19 February 1982,1h 30min,['Western'],6.5,Undefined,1982.0,90
+5577,The Living Dead at Manchester Morgue,http://www.imdb.com/title/tt0071431/,1 June 1975,1h 35min,['Horror'],6.9,Horror,1975.0,95
+5582,Lipstick,http://www.imdb.com/title/tt0074802/,2 April 1976,1h 29min,"['Crime', 'Drama', 'Thriller']",5.3,Crime,1976.0,89
+5603,Curse of the Pink Panther,http://www.imdb.com/title/tt0085384/,12 August 1983,1h 49min,"['Comedy', 'Crime', 'Mystery']",4.3,Comedy,1983.0,109
+5607,Moscow on the Hudson,http://www.imdb.com/title/tt0087747/,6 April 1984,1h 55min,"['Comedy', 'Drama', 'Romance']",6.5,RomCom,1984.0,115
+5612,Moving Violations,http://www.imdb.com/title/tt0089629/,19 April 1985,1h 30min,['Comedy'],5.7,Comedy,1985.0,90
+5619,Like Father Like Son,http://www.imdb.com/title/tt0093418/,2 October 1987,1h 36min,"['Comedy', 'Fantasy']",5.1,Comedy,1987.0,96
+5621,Braddock: Missing in Action III,http://www.imdb.com/title/tt0094792/,22 January 1988,1h 41min,"['Action', 'War']",4.7,Action/Adventure,1988.0,101
+5623,Vibes,http://www.imdb.com/title/tt0096378/,5 August 1988,1h 39min,"['Adventure', 'Comedy', 'Romance']",5.5,RomCom,1988.0,99
+5626,Narrow Margin,http://www.imdb.com/title/tt0100224/,21 September 1990,1h 37min,"['Action', 'Crime', 'Thriller']",6.6,Crime,1990.0,97
+5639,Amos & Andrew,http://www.imdb.com/title/tt0106266/,5 March 1993,1h 36min,"['Comedy', 'Crime']",5.5,Comedy,1993.0,96
+5651,The Pallbearer,http://www.imdb.com/title/tt0117283/,3 May 1996,1h 38min,"['Comedy', 'Romance']",4.9,RomCom,1996.0,98
+5652,The Stupids,http://www.imdb.com/title/tt0117768/,30 August 1996,1h 34min,"['Comedy', 'Adventure']",4.1,Comedy,1996.0,94
+5660,Air Bud: Golden Receiver,http://www.imdb.com/title/tt0140796/,14 August 1998,1h 30min,"['Comedy', 'Family', 'Sport']",4.5,Comedy,1998.0,90
+5661,Gloria,http://www.imdb.com/title/tt0120683/,22 January 1999,1h 48min,"['Crime', 'Drama', 'Thriller']",5.1,Crime,1999.0,108
+5677,Sidewalks of New York,http://www.imdb.com/title/tt0239986/,30 November 2001,1h 48min,"['Comedy', 'Romance']",6.5,RomCom,2001.0,108
+5678,Little Secrets,http://www.imdb.com/title/tt0296845/,23 August 2002,1h 36min,"['Comedy', 'Drama', 'Family']",6.5,Comedy,2002.0,96
+5685,Ararat,http://www.imdb.com/title/tt0273435/,6 December 2002,1h 55min,"['Drama', 'War']",6.5,Drama,2002.0,115
+5712,Rolling Kansas,http://www.imdb.com/title/tt0304638/,24 January 2003,1h 29min,['Comedy'],6.3,Comedy,2003.0,89
+5723,Prayer of the Rollerboys,http://www.imdb.com/title/tt0102703/,21 March 1991,1h 35min,"['Action', 'Drama', 'Sci-Fi']",5.5,Sci-Fi/Fantasy,1991.0,95
+5726,Trauma,http://www.imdb.com/title/tt0104053/,12 March 1993,1h 46min,"['Horror', 'Mystery', 'Thriller']",6.0,Horror,1993.0,106
+5729,American Ninja 4: The Annihilation,http://www.imdb.com/title/tt0101326/,8 March 1991,1h 39min,"['Action', 'Drama']",3.8,Undefined,1991.0,99
+5738,Anguish,http://www.imdb.com/title/tt0090644/,8 January 1988,1h 29min,['Horror'],6.7,Horror,1988.0,89
+5741,Combat Shock,http://www.imdb.com/title/tt0090866/,14 May 1986,1h 31min,"['Drama', 'Horror', 'Thriller']",6.4,Horror,1986.0,91
+5749,The Toolbox Murders,http://www.imdb.com/title/tt0078405/,3 March 1978,1h 33min,"['Horror', 'Mystery', 'Thriller']",5.3,Horror,1978.0,93
+5751,Carry on Abroad,http://www.imdb.com/title/tt0069847/,8 December 1973,1h 28min,['Comedy'],6.4,Comedy,1973.0,88
+5764,What?,http://www.imdb.com/title/tt0070913/,3 October 1973,1h 52min,['Comedy'],5.8,Comedy,1973.0,112
+5766,Face to Face,http://www.imdb.com/title/tt0074147/,5 April 1976,1h 54min,"['Drama', 'Fantasy']",7.7,Sci-Fi/Fantasy,1976.0,114
+5779,The Four Seasons,http://www.imdb.com/title/tt0082405/,22 May 1981,1h 47min,"['Comedy', 'Drama']",7.2,Comedy,1981.0,107
+5781,The Bad News Bears Go to Japan,http://www.imdb.com/title/tt0077199/,30 June 1978,1h 31min,"['Comedy', 'Family', 'Sport']",3.4,Comedy,1978.0,91
+5816,Graffiti Bridge,http://www.imdb.com/title/tt0099691/,2 November 1990,1h 35min,"['Drama', 'Music', 'Musical']",4.3,Drama,1990.0,95
+5820,Spaced Invaders,http://www.imdb.com/title/tt0100666/,27 April 1990,1h 40min,"['Adventure', 'Comedy', 'Sci-Fi']",5.3,Comedy,1990.0,100
+5829,Ghost in the Machine,http://www.imdb.com/title/tt0107009/,29 December 1993,1h 35min,"['Horror', 'Sci-Fi', 'Thriller']",4.4,Sci-Fi/Fantasy,1993.0,95
+5836,Jury Duty,http://www.imdb.com/title/tt0113500/,12 April 1995,1h 28min,['Comedy'],4.1,Comedy,1995.0,88
+5839,Meet the Deedles,http://www.imdb.com/title/tt0120645/,27 March 1998,1h 33min,"['Comedy', 'Family']",3.9,Comedy,1998.0,93
+5842,Hey Arnold! The Movie,http://www.imdb.com/title/tt0314166/,28 June 2002,1h 16min,"['Animation', 'Adventure', 'Comedy']",5.9,Comedy,2002.0,76
+5843,Friends & Lovers,http://www.imdb.com/title/tt0143261/,16 April 1999,1h 43min,"['Drama', 'Romance', 'Comedy']",4.5,RomCom,1999.0,103
+5865,Hard Cash,http://www.imdb.com/title/tt0248640/,15 February 2002,1h 56min,"['Action', 'Crime', 'Thriller']",4.5,Crime,2002.0,116
+5870,Girl Fever,http://www.imdb.com/title/tt0265010/,18 October 2002,1h 38min,"['Comedy', 'Romance']",5.0,RomCom,2002.0,98
+5871,Limbo,http://www.imdb.com/title/tt0164085/,7 July 1999,2h 6min,"['Adventure', 'Drama', 'Thriller']",7.1,Undefined,1999.0,126
+5884,Totally F***ed Up,http://www.imdb.com/title/tt0108366/,13 January 1995,1h 18min,"['Comedy', 'Drama', 'Romance']",6.1,RomCom,1995.0,78
+5888,Live Wire,http://www.imdb.com/title/tt0104743/,3 September 1992,1h 25min,"['Action', 'Drama', 'Thriller']",5.6,Undefined,1992.0,85
+5905,True Stories,http://www.imdb.com/title/tt0092117/,10 October 1986,1h 30min,"['Musical', 'Comedy']",7.0,Comedy,1986.0,90
+5924,Hit!,http://www.imdb.com/title/tt0070183/,1 February 1975,2h 14min,"['Action', 'Drama']",6.1,Undefined,1975.0,134
+5925,Theater of Blood,http://www.imdb.com/title/tt0070791/,5 April 1973,1h 44min,"['Comedy', 'Crime', 'Drama']",7.3,Comedy,1973.0,104
+5938,Breakheart Pass,http://www.imdb.com/title/tt0072735/,25 December 1975,1h 35min,"['Mystery', 'Western']",6.8,Undefined,1975.0,95
+5966,Hard to Hold,http://www.imdb.com/title/tt0087384/,6 April 1984,1h 33min,"['Drama', 'Music']",4.8,Drama,1984.0,93
+5972,Eliminators,http://www.imdb.com/title/tt0091003/,31 January 1986,1h 36min,"['Action', 'Adventure', 'Fantasy']",4.4,Sci-Fi/Fantasy,1986.0,96
+5992,V.I. Warshawski,http://www.imdb.com/title/tt0103184/,26 July 1991,1h 29min,"['Action', 'Comedy', 'Crime']",4.8,Comedy,1991.0,89
+6010,Masterminds,http://www.imdb.com/title/tt0119630/,22 August 1997,1h 46min,"['Action', 'Comedy', 'Thriller']",5.2,Comedy,1997.0,106
+6041,Rover Dangerfield,http://www.imdb.com/title/tt0102813/,2 August 1991,1h 14min,"['Animation', 'Family', 'Comedy']",6.0,Comedy,1991.0,74
+6045,Brain Donors,http://www.imdb.com/title/tt0103872/,17 April 1992,1h 20min,['Comedy'],7.1,Comedy,1992.0,80
+6049,"Gas, Food Lodging",http://www.imdb.com/title/tt0104321/,10 July 1992,1h 41min,"['Drama', 'Romance']",6.7,Romance,1992.0,101
+6075,"'night, Mother",http://www.imdb.com/title/tt0090556/,29 January 1987,1h 36min,['Drama'],7.6,Drama,1987.0,96
+6081,The Medusa Touch,http://www.imdb.com/title/tt0077921/,1978,1h 45min,"['Horror', 'Sci-Fi']",7.1,Sci-Fi/Fantasy,1978.0,105
+6101,The Trial of Billy Jack,http://www.imdb.com/title/tt0072317/,13 November 1974,2h 50min,"['Action', 'Drama', 'Music']",4.7,Undefined,1974.0,170
+6112,From Noon Till Three,http://www.imdb.com/title/tt0074553/,1976,1h 39min,"['Comedy', 'Romance', 'Western']",6.7,RomCom,1976.0,99
+6115,"No Deposit, No Return",http://www.imdb.com/title/tt0074968/,5 February 1976,1h 52min,"['Family', 'Comedy']",6.5,Comedy,1976.0,112
+6123,The Sensuous Nurse,http://www.imdb.com/title/tt0074682/,1979,1h 45min,['Comedy'],4.9,Comedy,1979.0,105
+6143,Making the Grade,http://www.imdb.com/title/tt0087666/,18 May 1984,1h 45min,"['Comedy', 'Romance']",5.7,RomCom,1984.0,105
+6153,Assassination,http://www.imdb.com/title/tt0092585/,9 January 1987,1h 28min,"['Action', 'Drama', 'Thriller']",5.1,Undefined,1987.0,88
+6154,From the Hip,http://www.imdb.com/title/tt0093051/,6 February 1987,1h 51min,"['Comedy', 'Crime', 'Drama']",6.2,Comedy,1987.0,111
+6165,Mystery Date,http://www.imdb.com/title/tt0102500/,16 August 1991,1h 37min,"['Comedy', 'Crime', 'Romance']",6.0,RomCom,1991.0,97
+6168,Folks!,http://www.imdb.com/title/tt0104283/,1 May 1992,1h 47min,"['Comedy', 'Drama']",5.5,Comedy,1992.0,107
+6191,The Adjuster,http://www.imdb.com/title/tt0101273/,1992,1h 42min,"['Comedy', 'Drama']",6.7,Comedy,1992.0,102
+6201,Mr. & Mrs. Bridge,http://www.imdb.com/title/tt0100200/,18 January 1991,2h 6min,['Drama'],6.7,Drama,1991.0,126
+6215,Slumber Party Massacre II,http://www.imdb.com/title/tt0093996/,6 March 1987,1h 17min,"['Comedy', 'Horror', 'Music']",4.4,Comedy,1987.0,77
+6236,Things Change,http://www.imdb.com/title/tt0096259/,21 October 1988,1h 40min,"['Comedy', 'Crime', 'Drama']",7.0,Comedy,1988.0,100
+6239,Laserblast,http://www.imdb.com/title/tt0077834/,1 March 1978,1h 25min,"['Horror', 'Sci-Fi']",2.5,Sci-Fi/Fantasy,1978.0,85
+6240,The Last House on Dead End Street,http://www.imdb.com/title/tt0076295/,1977,1h 18min,['Horror'],5.4,Horror,1977.0,78
+6248,Despair,http://www.imdb.com/title/tt0077421/,20 September 1978,1h 59min,['Drama'],7.4,Drama,1978.0,119
+6256,The Blue Bird,http://www.imdb.com/title/tt0074225/,5 April 1976,1h 39min,"['Adventure', 'Drama', 'Family']",5.5,Undefined,1976.0,99
+6277,Freebie and the Bean,http://www.imdb.com/title/tt0071521/,25 December 1974,1h 53min,"['Action', 'Comedy', 'Crime']",6.5,Comedy,1974.0,113
+6279,The Stone Killer,http://www.imdb.com/title/tt0070736/,8 August 1973,1h 35min,"['Action', 'Crime', 'Drama']",6.2,Crime,1973.0,95
+6298,FM,http://www.imdb.com/title/tt0077532/,20 April 1978,1h 44min,"['Comedy', 'Drama', 'Music']",6.2,Comedy,1978.0,104
+6301,Night Crossing,http://www.imdb.com/title/tt0082810/,5 February 1982,1h 47min,"['Drama', 'Family', 'History']",6.4,Drama,1982.0,107
+6307,Hot Stuff,http://www.imdb.com/title/tt0079308/,4 January 1980,1h 31min,['Comedy'],6.5,Comedy,1980.0,91
+6318,Thief of Hearts,http://www.imdb.com/title/tt0088256/,19 October 1984,1h 40min,"['Drama', 'Thriller', 'Crime']",5.7,Crime,1984.0,100
+6320,Fast Forward,http://www.imdb.com/title/tt0089129/,15 February 1985,1h 50min,"['Drama', 'Musical']",5.6,Drama,1985.0,110
+6327,Russkies,http://www.imdb.com/title/tt0093898/,6 November 1987,1h 39min,['Drama'],5.6,Drama,1987.0,99
+6333,Listen to Me,http://www.imdb.com/title/tt0097756/,5 May 1989,1h 47min,"['Drama', 'Romance']",5.3,Romance,1989.0,107
+6367,Choose Me,http://www.imdb.com/title/tt0087054/,29 August 1984,1h 46min,"['Comedy', 'Drama', 'Romance']",6.8,RomCom,1984.0,106
+6375,Black Shampoo,http://www.imdb.com/title/tt0074214/,5 March 1976,1h 25min,"['Action', 'Comedy', 'Crime']",4.5,Comedy,1976.0,85
+6384,An Enemy of the People,http://www.imdb.com/title/tt0075993/,17 March 1978,1h 43min,['Drama'],7.0,Drama,1978.0,103
+6388,Between the Lines,http://www.imdb.com/title/tt0075744/,22 January 1979,1h 41min,"['Comedy', 'Drama', 'Romance']",6.9,RomCom,1979.0,101
+6396,Blue Sunshine,http://www.imdb.com/title/tt0074226/,12 May 1978,1h 34min,"['Horror', 'Thriller']",6.1,Horror,1978.0,94
+6405,A Thief in the Night,http://www.imdb.com/title/tt0070795/,22 March 1973,1h 9min,"['Drama', 'Fantasy', 'Horror']",5.0,Sci-Fi/Fantasy,1973.0,69
+6422,Stavisky...,http://www.imdb.com/title/tt0072204/,15 May 1974,2h,"['Biography', 'Drama']",6.8,Documentary/Biography,1974.0,120
+6463,The Human Factor,http://www.imdb.com/title/tt0080903/,1980,1h 55min,"['Drama', 'Romance', 'Thriller']",6.1,Romance,1980.0,115
+6498,The Squeeze,http://www.imdb.com/title/tt0094021/,10 July 1987,1h 41min,"['Action', 'Comedy', 'Crime']",4.6,Comedy,1987.0,101
+6508,Scenes from a Mall,http://www.imdb.com/title/tt0102849/,22 February 1991,1h 29min,['Comedy'],5.3,Comedy,1991.0,89
+6511,Used People,http://www.imdb.com/title/tt0105706/,22 January 1993,1h 55min,"['Comedy', 'Drama', 'Romance']",6.0,RomCom,1993.0,115
+6513,Married to It,http://www.imdb.com/title/tt0107523/,26 March 1993,1h 52min,"['Comedy', 'Drama']",5.9,Comedy,1993.0,112
+6517,The Tie That Binds,http://www.imdb.com/title/tt0114666/,8 September 1995,1h 39min,"['Crime', 'Drama', 'Thriller']",5.0,Crime,1995.0,99
+6526,The New Land,http://www.imdb.com/title/tt0069035/,26 February 1972,1h 42min,"['Drama', 'Western']",8.0,Drama,1972.0,102
+6553,99 and 44/100% Dead,http://www.imdb.com/title/tt0071089/,23 September 1974,1h 38min,"['Action', 'Adventure', 'Comedy']",5.6,Comedy,1974.0,98
+6583,J.A. Martin photographe,http://www.imdb.com/title/tt0074702/,11 February 1977,1h 40min,['Drama'],8.3,Drama,1977.0,100
+6588,Girlfriends,http://www.imdb.com/title/tt0077613/,1978,1h 26min,"['Comedy', 'Drama']",6.8,Comedy,1978.0,86
+6591,The Sailor's Return,http://www.imdb.com/title/tt0078195/,1978,1h 40min,['Drama'],6.7,Drama,1978.0,100
+6601,An Almost Perfect Affair,http://www.imdb.com/title/tt0078757/,27 April 1979,1h 33min,"['Comedy', 'Romance']",5.3,RomCom,1979.0,93
+6612,Dangerously Close,http://www.imdb.com/title/tt0090904/,9 May 1986,1h 35min,"['Action', 'Crime', 'Thriller']",6.6,Crime,1986.0,95
+6615,Off Beat,http://www.imdb.com/title/tt0091668/,11 April 1986,1h 32min,"['Comedy', 'Crime', 'Romance']",5.0,RomCom,1986.0,92
+6628,Sarah Landon and the Paranormal Hour,http://www.imdb.com/title/tt0990376/,19 October 2007,1h 21min,"['Family', 'Horror', 'Mystery']",3.9,Horror,2007.0,81
+6635,The Other Side of the Wind,http://www.imdb.com/title/tt0069049/,2017,,['Drama'],,Drama,2017.0,0
+6640,Every Home Should Have One,http://www.imdb.com/title/tt0065709/,1978,1h 34min,['Comedy'],5.0,Comedy,1978.0,94
+6649,Safe Haven,http://www.imdb.com/title/tt1702439/,14 February 2013,1h 55min,"['Drama', 'Romance', 'Thriller']",6.7,Romance,2013.0,115
+6652,The Twilight Saga: Breaking Dawn - Part 2,http://www.imdb.com/title/tt1673434/,16 November 2012,1h 55min,"['Adventure', 'Drama', 'Fantasy']",5.5,Sci-Fi/Fantasy,2012.0,115
+6664,Bachelorette,http://www.imdb.com/title/tt1920849/,6 September 2012,1h 27min,"['Comedy', 'Romance']",5.3,RomCom,2012.0,87
+6669,Admission,http://www.imdb.com/title/tt1814621/,22 March 2013,1h 47min,"['Comedy', 'Drama', 'Romance']",5.7,RomCom,2013.0,107
+6674,Eternal Sunshine of the Spotless Mind,http://www.imdb.com/title/tt0338013/,19 March 2004,1h 48min,"['Drama', 'Romance', 'Sci-Fi']",8.3,Romance,2004.0,108
+6678,Burlesque,http://www.imdb.com/title/tt1126591/,24 November 2010,1h 59min,"['Drama', 'Music', 'Musical']",6.4,Drama,2010.0,119
+6723,Grease,http://www.imdb.com/title/tt0077631/,16 June 1978,1h 50min,"['Musical', 'Romance']",7.2,Romance,1978.0,110
+6728,Think Like a Man,http://www.imdb.com/title/tt1621045/,20 April 2012,2h 2min,"['Comedy', 'Romance']",6.6,RomCom,2012.0,122
+6743,The Next Three Days,http://www.imdb.com/title/tt1458175/,19 November 2010,2h 13min,"['Crime', 'Drama', 'Romance']",7.4,Romance,2010.0,133
+6748,Ek Thi Daayan,http://www.imdb.com/title/tt2406676/,18 April 2013,2h 15min,"['Horror', 'Romance', 'Thriller']",5.7,Romance,2013.0,135
+6762,John Tucker Must Die,http://www.imdb.com/title/tt0455967/,28 July 2006,1h 29min,"['Comedy', 'Romance']",5.8,RomCom,2006.0,89
+6767,The Little Rascals,http://www.imdb.com/title/tt0110366/,5 August 1994,1h 22min,"['Comedy', 'Family', 'Romance']",6.3,RomCom,1994.0,82
+6779,Now Is Good,http://www.imdb.com/title/tt1937264/,19 September 2012,1h 43min,"['Drama', 'Romance']",7.2,Romance,2012.0,103
+6791,Legally Blonde,http://www.imdb.com/title/tt0250494/,13 July 2001,1h 36min,"['Comedy', 'Romance']",6.2,RomCom,2001.0,96
+6794,Valentine's Day,http://www.imdb.com/title/tt0817230/,12 February 2010,2h 5min,"['Comedy', 'Romance']",5.7,RomCom,2010.0,125
+6815,What's Your Number?,http://www.imdb.com/title/tt0770703/,30 September 2011,1h 46min,"['Comedy', 'Romance']",6.1,RomCom,2011.0,106
+6818,Mr. Nobody,http://www.imdb.com/title/tt0485947/,26 September 2013,2h 21min,"['Drama', 'Fantasy', 'Romance']",7.9,Romance,2013.0,141
+6832,The Forbidden Kingdom,http://www.imdb.com/title/tt0865556/,18 April 2008,1h 44min,"['Action', 'Adventure', 'Fantasy']",6.6,Sci-Fi/Fantasy,2008.0,104
+6839,The Dreamers,http://www.imdb.com/title/tt0309987/,20 February 2004,1h 55min,"['Drama', 'Romance']",7.2,Romance,2004.0,115
+6844,Gnomeo & Juliet,http://www.imdb.com/title/tt0377981/,11 February 2011,1h 24min,"['Animation', 'Comedy', 'Family']",6.0,Comedy,2011.0,84
+6847,The Art of Getting By,http://www.imdb.com/title/tt1645080/,17 June 2011,1h 23min,"['Drama', 'Romance']",6.6,Romance,2011.0,83
+6868,Warrior,http://www.imdb.com/title/tt1291584/,9 September 2011,2h 20min,"['Action', 'Drama', 'Sport']",8.2,Undefined,2011.0,140
+6876,Requiem for a Dream,http://www.imdb.com/title/tt0180093/,15 December 2000,1h 42min,['Drama'],8.4,Drama,2000.0,102
+6880,Babel,http://www.imdb.com/title/tt0449467/,10 November 2006,2h 23min,['Drama'],7.5,Drama,2006.0,143
+6888,Safe,http://www.imdb.com/title/tt1656190/,27 April 2012,1h 34min,"['Action', 'Crime', 'Thriller']",6.5,Crime,2012.0,94
+6898,Matilda,http://www.imdb.com/title/tt0117008/,2 August 1996,1h 42min,"['Comedy', 'Family', 'Fantasy']",6.8,Comedy,1996.0,102
+6899,Mission: Impossible,http://www.imdb.com/title/tt0117060/,22 May 1996,1h 50min,"['Action', 'Adventure', 'Thriller']",7.1,Action/Adventure,1996.0,110
+6939,Elevator,http://www.imdb.com/title/tt1728975/,20 January 2012,1h 24min,['Thriller'],5.3,Undefined,2012.0,84
+6947,Star Trek II: The Wrath of Khan,http://www.imdb.com/title/tt0084726/,4 June 1982,1h 53min,"['Action', 'Adventure', 'Sci-Fi']",7.7,Sci-Fi/Fantasy,1982.0,113
+6948,Trading Places,http://www.imdb.com/title/tt0086465/,8 June 1983,1h 56min,['Comedy'],7.5,Comedy,1983.0,116
+6952,Highlander,http://www.imdb.com/title/tt0091203/,7 March 1986,1h 56min,"['Action', 'Adventure', 'Fantasy']",7.2,Sci-Fi/Fantasy,1986.0,116
+6972,Glengarry Glen Ross,http://www.imdb.com/title/tt0104348/,2 October 1992,1h 40min,"['Crime', 'Drama', 'Mystery']",7.8,Crime,1992.0,100
+6976,The Bad News Bears,http://www.imdb.com/title/tt0074174/,7 April 1976,1h 42min,"['Comedy', 'Drama', 'Family']",7.3,Comedy,1976.0,102
+6985,Tommy Boy,http://www.imdb.com/title/tt0114694/,31 March 1995,1h 37min,"['Adventure', 'Comedy']",7.0,Comedy,1995.0,97
+6988,Miss Congeniality,http://www.imdb.com/title/tt0212346/,22 December 2000,1h 49min,"['Action', 'Comedy', 'Crime']",6.2,Comedy,2000.0,109
+6999,Little Shop of Horrors,http://www.imdb.com/title/tt0091419/,19 December 1986,1h 34min,"['Comedy', 'Family', 'Musical']",6.9,Comedy,1986.0,94
+7016,Rabbit Hole,http://www.imdb.com/title/tt0935075/,28 January 2011,1h 31min,['Drama'],7.0,Drama,2011.0,91
+7018,Bad Lieutenant: Port of Call New Orleans,http://www.imdb.com/title/tt1095217/,11 December 2009,2h 2min,"['Crime', 'Drama']",6.7,Crime,2009.0,122
+7028,Days of Heaven,http://www.imdb.com/title/tt0077405/,6 October 1978,1h 34min,"['Drama', 'Romance']",8.0,Romance,1978.0,94
+7029,Over the Top,http://www.imdb.com/title/tt0093692/,13 February 1987,1h 33min,"['Action', 'Drama', 'Sport']",5.7,Undefined,1987.0,93
+7038,Hamlet,http://www.imdb.com/title/tt0116477/,25 December 1996,4h 2min,['Drama'],7.8,Drama,1996.0,242
+7058,Top Gun,http://www.imdb.com/title/tt0092099/,16 May 1986,1h 50min,"['Action', 'Drama', 'Romance']",6.9,Romance,1986.0,110
+7059,Death of a Superhero,http://www.imdb.com/title/tt1384927/,30 August 2012,1h 37min,"['Animation', 'Drama']",7.1,Drama,2012.0,97
+7062,Oldboy,http://www.imdb.com/title/tt0364569/,21 November 2003,2h,"['Drama', 'Mystery', 'Thriller']",8.4,Drama,2003.0,120
+7063,Let the Right One In,http://www.imdb.com/title/tt1139797/,12 December 2008,1h 55min,"['Drama', 'Horror', 'Romance']",8.0,Romance,2008.0,115
+7080,Children of the Corn,http://www.imdb.com/title/tt0087050/,9 March 1984,1h 32min,"['Horror', 'Thriller']",5.6,Horror,1984.0,92
+7093,Two Lovers,http://www.imdb.com/title/tt1103275/,20 March 2009,1h 50min,"['Drama', 'Romance']",7.1,Romance,2009.0,110
+7103,Twin Peaks: Fire Walk with Me,http://www.imdb.com/title/tt0105665/,28 August 1992,2h 15min,"['Drama', 'Fantasy', 'Horror']",7.2,Sci-Fi/Fantasy,1992.0,135
+7111,Henry's Crime,http://www.imdb.com/title/tt1220888/,14 January 2011,1h 48min,"['Comedy', 'Crime', 'Drama']",6.0,Comedy,2011.0,108
+7120,Revenge,http://www.imdb.com/title/tt0100485/,16 February 1990,2h 4min,"['Action', 'Crime', 'Drama']",6.2,Crime,1990.0,124
+7126,The Peacemaker,http://www.imdb.com/title/tt0119874/,26 September 1997,2h 4min,"['Action', 'Thriller']",5.9,Action/Adventure,1997.0,124
+7132,Madea's Big Happy Family,http://www.imdb.com/title/tt1787759/,22 April 2011,1h 46min,"['Comedy', 'Drama']",4.5,Comedy,2011.0,106
+7150,The Veteran,http://www.imdb.com/title/tt1653700/,29 April 2011,1h 38min,"['Action', 'Thriller']",5.9,Action/Adventure,2011.0,98
+7162,My Name Is Nobody,http://www.imdb.com/title/tt0070215/,17 July 1974,1h 56min,"['Western', 'Comedy']",7.5,Comedy,1974.0,116
+7166,The First Wives Club,http://www.imdb.com/title/tt0116313/,20 September 1996,1h 43min,['Comedy'],6.2,Comedy,1996.0,103
+7168,Superstar,http://www.imdb.com/title/tt0167427/,8 October 1999,1h 21min,"['Comedy', 'Romance']",5.0,RomCom,1999.0,81
+7172,Restraint,http://www.imdb.com/title/tt0441782/,19 August 2008,1h 34min,"['Drama', 'Thriller']",6.2,Drama,2008.0,94
+7185,Black Sheep,http://www.imdb.com/title/tt0115697/,2 February 1996,1h 27min,['Comedy'],6.2,Comedy,1996.0,87
+7189,The Woman in the Fifth,http://www.imdb.com/title/tt1605777/,16 November 2011,1h 24min,"['Drama', 'Mystery', 'Thriller']",5.3,Drama,2011.0,84
+7199,The Man Who Fell to Earth,http://www.imdb.com/title/tt0074851/,8 April 1976,2h 19min,"['Sci-Fi', 'Drama']",6.7,Sci-Fi/Fantasy,1976.0,139
+7207,Shorts,http://www.imdb.com/title/tt1100119/,21 August 2009,1h 29min,"['Comedy', 'Family', 'Fantasy']",4.8,Comedy,2009.0,89
+7221,The Return of the Pink Panther,http://www.imdb.com/title/tt0072081/,21 May 1975,1h 53min,"['Comedy', 'Crime', 'Mystery']",7.1,Comedy,1975.0,113
+7222,The Boys from Brazil,http://www.imdb.com/title/tt0077269/,6 October 1978,2h 5min,"['Drama', 'Thriller']",7.0,Drama,1978.0,125
+7223,Class,http://www.imdb.com/title/tt0085346/,22 July 1983,1h 38min,"['Comedy', 'Drama', 'Romance']",5.9,RomCom,1983.0,98
+7244,The Wraith,http://www.imdb.com/title/tt0092240/,21 November 1986,1h 33min,"['Action', 'Horror', 'Romance']",5.9,Romance,1986.0,93
+7277,Time After Time,http://www.imdb.com/title/tt0080025/,28 September 1979,1h 52min,"['Adventure', 'Drama', 'Sci-Fi']",7.2,Sci-Fi/Fantasy,1979.0,112
+7278,"Strange Brew 
+",http://www.imdb.com/title/tt0086373/,26 August 1983,1h 30min,['Comedy'],6.8,Comedy,1983.0,90
+7282,My Blue Heaven,http://www.imdb.com/title/tt0100212/,17 August 1990,1h 37min,"['Comedy', 'Crime']",6.2,Comedy,1990.0,97
+7283,Bad Girls,http://www.imdb.com/title/tt0109198/,22 April 1994,1h 39min,"['Romance', 'Western']",5.1,Romance,1994.0,99
+7284,Book of Shadows: Blair Witch 2,http://www.imdb.com/title/tt0229260/,27 October 2000,1h 30min,"['Adventure', 'Fantasy', 'Horror']",4.0,Sci-Fi/Fantasy,2000.0,90
+7298,Not Without My Daughter,http://www.imdb.com/title/tt0102555/,11 January 1991,1h 56min,"['Drama', 'Thriller']",6.2,Drama,1991.0,116
+7307,Erik the Viking,http://www.imdb.com/title/tt0097289/,22 September 1989,1h 47min,"['Comedy', 'Adventure', 'Fantasy']",6.2,Comedy,1989.0,107
+7312,"Greystoke: The Legend of Tarzan, Lord of the Apes",http://www.imdb.com/title/tt0087365/,30 March 1984,2h 15min,"['Adventure', 'Drama']",6.3,Undefined,1984.0,135
+7316,The Two Jakes,http://www.imdb.com/title/tt0100828/,10 August 1990,2h 17min,"['Crime', 'Drama', 'Mystery']",6.1,Crime,1990.0,137
+7322,The Hillz,http://www.imdb.com/title/tt0343788/,25 June 2004,1h 31min,"['Crime', 'Drama']",2.6,Crime,2004.0,91
+7325,Another Day in Paradise,http://www.imdb.com/title/tt0127722/,1999,1h 41min,"['Crime', 'Drama', 'Thriller']",6.5,Crime,1999.0,101
+7332,Hoodlum,http://www.imdb.com/title/tt0119311/,27 August 1997,2h 10min,"['Crime', 'Drama']",6.2,Crime,1997.0,130
+7334,The Foot Fist Way,http://www.imdb.com/title/tt0492619/,26 September 2008,1h 25min,['Comedy'],6.4,Comedy,2008.0,85
+7378,Bad Influence,http://www.imdb.com/title/tt0099091/,9 March 1990,1h 39min,"['Drama', 'Thriller']",6.2,Drama,1990.0,99
+7385,Shadows and Fog,http://www.imdb.com/title/tt0105378/,20 March 1992,1h 25min,['Comedy'],6.8,Comedy,1992.0,85
+7391,Sacrifice,http://www.imdb.com/title/tt0091670/,1986,2h 29min,['Drama'],8.2,Drama,1986.0,149
+7394,The Professional,http://www.imdb.com/title/tt0082949/,21 October 1981,1h 48min,"['Action', 'Crime', 'Drama']",7.7,Crime,1981.0,108
+7405,Red,http://www.imdb.com/title/tt0972883/,20 January 2008,1h 33min,"['Drama', 'Thriller']",7.1,Drama,2008.0,93
+7409,Salaam Bombay!,http://www.imdb.com/title/tt0096028/,7 October 1988,1h 53min,"['Crime', 'Drama']",8.0,Crime,1988.0,113
+7432,Another Woman,http://www.imdb.com/title/tt0094663/,18 November 1988,1h 21min,['Drama'],7.4,Drama,1988.0,81
+7449,The Dead,http://www.imdb.com/title/tt0092843/,18 December 1987,1h 23min,['Drama'],7.4,Drama,1987.0,83
+7462,Posse,http://www.imdb.com/title/tt0107863/,14 May 1993,1h 51min,['Western'],5.4,Undefined,1993.0,111
+7464,Kissed,http://www.imdb.com/title/tt0116783/,11 April 1997,1h 18min,"['Drama', 'Romance']",6.5,Romance,1997.0,78
+7466,Ski School,http://www.imdb.com/title/tt0102940/,11 January 1991,1h 35min,['Comedy'],5.1,Comedy,1991.0,95
+7468,10 to Midnight,http://www.imdb.com/title/tt0085121/,11 March 1983,1h 41min,"['Crime', 'Drama', 'Thriller']",6.3,Crime,1983.0,101
+7473,Shout at the Devil,http://www.imdb.com/title/tt0075214/,1976,2h 30min,"['Action', 'Adventure', 'Comedy']",6.3,Comedy,1976.0,150
+7476,Lambada,http://www.imdb.com/title/tt0099969/,16 March 1990,1h 44min,['Drama'],3.2,Drama,1990.0,104
+7503,Squirm,http://www.imdb.com/title/tt0075261/,30 July 1976,1h 32min,['Horror'],4.5,Horror,1976.0,92
+7505,Deranged: Confessions of a Necrophile,http://www.imdb.com/title/tt0071408/,1974,1h 24min,"['Drama', 'Horror', 'Thriller']",6.5,Horror,1974.0,84
+7512,Dinner Rush,http://www.imdb.com/title/tt0229340/,29 March 2002,1h 39min,"['Crime', 'Drama', 'Romance']",7.3,Romance,2002.0,99
+7516,Wish You Were Here,http://www.imdb.com/title/tt0094331/,24 July 1987,1h 28min,"['Comedy', 'Drama']",6.8,Comedy,1987.0,88
+7536,Pushing Hands,http://www.imdb.com/title/tt0105652/,20 January 1996,1h 45min,"['Comedy', 'Drama']",7.3,Comedy,1996.0,105
+7555,Shatterbrain,http://www.imdb.com/title/tt0105242/,26 March 1993,1h 48min,"['Fantasy', 'Horror']",6.4,Sci-Fi/Fantasy,1993.0,108
+7566,Heavy Traffic,http://www.imdb.com/title/tt0070165/,17 November 1973,1h 17min,"['Animation', 'Comedy', 'Drama']",6.7,Comedy,1973.0,77
+7588,The Water Babies,http://www.imdb.com/title/tt0078477/,1978,1h 32min,"['Animation', 'Adventure', 'Family']",6.1,Action/Adventure,1978.0,92
+7589,Tentacles,http://www.imdb.com/title/tt0076809/,15 June 1977,1h 42min,"['Horror', 'Sci-Fi', 'Thriller']",3.5,Sci-Fi/Fantasy,1977.0,102
+7617,Harry in Your Pocket,http://www.imdb.com/title/tt0070158/,18 October 1973,1h 43min,"['Comedy', 'Crime', 'Drama']",6.4,Comedy,1973.0,103
+7619,Cops and Robbers,http://www.imdb.com/title/tt0069919/,17 August 1973,1h 29min,"['Crime', 'Comedy']",6.4,Comedy,1973.0,89
+7628,Marathon,http://www.imdb.com/title/tt0448621/,27 January 2005,1h 57min,"['Biography', 'Drama', 'Sport']",7.8,Documentary/Biography,2005.0,117
+7641,Technotise: Edit & I,http://www.imdb.com/title/tt1372301/,8 April 2009,1h 40min,"['Animation', 'Drama', 'Sci-Fi']",7.5,Sci-Fi/Fantasy,2009.0,100
+7648,High Tide,http://www.imdb.com/title/tt0095305/,30 July 1987,1h 41min,['Drama'],7.3,Drama,1987.0,101
+7653,Thieves,http://www.imdb.com/title/tt0076815/,29 May 1978,1h 32min,"['Comedy', 'Drama', 'Romance']",5.3,RomCom,1978.0,92
+7663,Best Day Ever: Aiden Kesler 1994-2011,http://www.imdb.com/title/tt1830497/,,1h 18min,"['Comedy', 'Drama']",6.1,Comedy,,78
+7682,American Gangster,http://www.imdb.com/title/tt0765429/,2 November 2007,2h 37min,"['Biography', 'Crime', 'Drama']",7.8,Documentary/Biography,2007.0,157
+7715,Mask,http://www.imdb.com/title/tt0089560/,22 March 1985,2h,"['Biography', 'Drama']",7.2,Documentary/Biography,1985.0,120
+7730,October Sky,http://www.imdb.com/title/tt0132477/,19 February 1999,1h 48min,"['Biography', 'Drama', 'Family']",7.8,Documentary/Biography,1999.0,108
+7741,Patch Adams,http://www.imdb.com/title/tt0129290/,25 December 1998,1h 55min,"['Biography', 'Comedy', 'Drama']",6.7,Documentary/Biography,1998.0,115
+7742,Men of Honor,http://www.imdb.com/title/tt0203019/,10 November 2000,2h 9min,"['Biography', 'Drama']",7.2,Documentary/Biography,2000.0,129
+7746,Bloodsport,http://www.imdb.com/title/tt0092675/,29 April 1988,1h 32min,"['Action', 'Biography', 'Drama']",6.8,Documentary/Biography,1988.0,92
+7750,Girl with a Pearl Earring,http://www.imdb.com/title/tt0335119/,30 January 2004,1h 40min,"['Biography', 'Drama', 'Romance']",7.0,Documentary/Biography,2004.0,100
+7759,Captain Phillips,http://www.imdb.com/title/tt1535109/,11 October 2013,2h 14min,"['Biography', 'Drama', 'Thriller']",7.8,Documentary/Biography,2013.0,134
+7765,Factory Girl,http://www.imdb.com/title/tt0432402/,16 February 2007,1h 30min,"['Biography', 'Drama']",6.4,Documentary/Biography,2007.0,90
+7796,Pollock,http://www.imdb.com/title/tt0183659/,23 March 2001,2h 2min,"['Biography', 'Drama']",7.0,Documentary/Biography,2001.0,122
+7807,Into the Wild,http://www.imdb.com/title/tt0758758/,19 October 2007,2h 28min,"['Adventure', 'Biography', 'Drama']",8.1,Documentary/Biography,2007.0,148
+7809,The Devil's Double,http://www.imdb.com/title/tt1270262/,8 September 2011,1h 49min,"['Biography', 'Drama', 'Thriller']",7.1,Documentary/Biography,2011.0,109
+7820,Private Parts,http://www.imdb.com/title/tt0119951/,7 March 1997,1h 49min,"['Biography', 'Comedy', 'Drama']",6.8,Documentary/Biography,1997.0,109
+7830,Mission to Lars,http://www.imdb.com/title/tt1865450/,25 September 2015,1h 14min,"['Documentary', 'Adventure', 'Biography']",6.7,Documentary/Biography,2015.0,74
+7833,Marley,http://www.imdb.com/title/tt1183919/,20 April 2012,2h 24min,"['Documentary', 'Biography', 'Music']",8.0,Documentary/Biography,2012.0,144
+7838,Counterpunch,http://www.imdb.com/title/tt2051850/,2014,1h 37min,"['Action', 'Biography', 'Drama']",5.1,Documentary/Biography,2014.0,97
+7856,Beyond the Sea,http://www.imdb.com/title/tt0363473/,29 December 2004,1h 58min,"['Biography', 'Drama', 'Music']",6.7,Documentary/Biography,2004.0,118
+7872,The Odessa File,http://www.imdb.com/title/tt0071935/,18 October 1974,2h 10min,"['Drama', 'Thriller']",7.0,Drama,1974.0,130
+7886,Topsy-Turvy,http://www.imdb.com/title/tt0151568/,11 February 2000,2h 34min,"['Biography', 'Comedy', 'Drama']",7.4,Documentary/Biography,2000.0,154
+7891,Permanent Midnight,http://www.imdb.com/title/tt0120788/,23 April 1999,1h 28min,"['Biography', 'Drama', 'Romance']",6.3,Documentary/Biography,1999.0,88
+7901,Stander,http://www.imdb.com/title/tt0326208/,10 October 2003,1h 51min,"['Action', 'Biography', 'Crime']",7.2,Documentary/Biography,2003.0,111
+7911,The Last Time I Committed Suicide,http://www.imdb.com/title/tt0119502/,20 June 1997,1h 32min,"['Biography', 'Drama']",5.8,Documentary/Biography,1997.0,92
+7915,Swimming Upstream,http://www.imdb.com/title/tt0326664/,27 February 2003,1h 54min,"['Biography', 'Drama', 'Sport']",7.2,Documentary/Biography,2003.0,114
+7916,Baadasssss!,http://www.imdb.com/title/tt0367790/,17 March 2005,1h 49min,"['Biography', 'Drama']",7.4,Documentary/Biography,2005.0,109
+7934,Ed Gein,http://www.imdb.com/title/tt0230169/,20 July 2001,1h 29min,"['Biography', 'Crime', 'Drama']",5.6,Documentary/Biography,2001.0,89
+7964,Gonzo: The Life and Work of Dr. Hunter S. Thompson,http://www.imdb.com/title/tt0479468/,18 July 2008,2h,"['Documentary', 'Biography', 'Music']",7.7,Documentary/Biography,2008.0,120
+7968,Jason Becker: Not Dead Yet,http://www.imdb.com/title/tt2120779/,16 November 2012,1h 27min,"['Documentary', 'Biography', 'Music']",8.1,Documentary/Biography,2012.0,87
+7971,Marwencol,http://www.imdb.com/title/tt1391092/,8 October 2010,1h 23min,"['Documentary', 'Biography', 'Fantasy']",7.6,Documentary/Biography,2010.0,83
+7989,The Arbor,http://www.imdb.com/title/tt1623008/,25 April 2010,1h 34min,"['Documentary', 'Biography', 'Drama']",7.2,Documentary/Biography,2010.0,94
+8004,Dance with a Stranger,http://www.imdb.com/title/tt0088987/,9 August 1985,1h 36min,"['Biography', 'Crime', 'Drama']",6.8,Documentary/Biography,1985.0,96
+8013,Thirty Two Short Films About Glenn Gould,http://www.imdb.com/title/tt0108328/,26 November 1993,1h 38min,"['Biography', 'Drama', 'Music']",7.5,Documentary/Biography,1993.0,98
+8028,Be Here to Love Me: A Film About Townes Van Zandt,http://www.imdb.com/title/tt0423853/,22 December 2005,1h 39min,"['Documentary', 'Biography', 'Music']",7.9,Documentary/Biography,2005.0,99
+8029,OmnibusEpisode: Syd Barrett: Crazy Diamond,http://www.imdb.com/title/tt0200358/,13 October 1967,,"['Documentary', 'Biography', 'Music']",8.1,Documentary/Biography,1967.0,0
+8044,Scorsese on Scorsese,http://www.imdb.com/title/tt0440780/,14 December 2004,1h 26min,"['Documentary', 'Biography']",8.0,Documentary/Biography,2004.0,86
+8063,Rock n Roll Nerd,http://www.imdb.com/title/tt1297297/,27 July 2008,1h 29min,"['Documentary', 'Biography', 'Comedy']",7.9,Documentary/Biography,2008.0,89
+8067,"Thelonious Monk: Straight, No Chaser",http://www.imdb.com/title/tt0098465/,31 October 1990,1h 30min,"['Documentary', 'Biography', 'Music']",7.7,Documentary/Biography,1990.0,90
+8072,Still Bill,http://www.imdb.com/title/tt1333117/,27 January 2010,1h 18min,"['Documentary', 'Biography', 'Music']",7.8,Documentary/Biography,2010.0,78
+8076,General Idi Amin Dada,http://www.imdb.com/title/tt0071544/,30 August 1976,1h 30min,"['Documentary', 'Biography', 'War']",7.6,Documentary/Biography,1976.0,90
+8097,Bruce Springsteen: The Complete Video Anthology 1978-2000,http://www.imdb.com/title/tt0363491/,16 January 2001,2h 45min,"['Documentary', 'Biography', 'Music']",7.5,Documentary/Biography,2001.0,165
+8110,Wrangler: Anatomy of an Icon,http://www.imdb.com/title/tt1053951/,7 June 2008,1h 25min,"['Documentary', 'Biography', 'Romance']",6.0,Documentary/Biography,2008.0,85
+8113,Rita,http://www.imdb.com/title/tt0380673/,9 September 2003,59min,"['Documentary', 'Biography']",7.5,Documentary/Biography,2003.0,59
+8116,Constantine's Sword,http://www.imdb.com/title/tt0902270/,18 April 2008,1h 33min,"['Documentary', 'Biography']",7.1,Documentary/Biography,2008.0,93
+8117,Mama Africa,http://www.imdb.com/title/tt1543029/,2011,1h 30min,"['Documentary', 'Biography', 'Music']",7.0,Documentary/Biography,2011.0,90
+8138,Air Guitar Nation,http://www.imdb.com/title/tt0799915/,6 October 2007,1h 21min,"['Documentary', 'Biography', 'Music']",7.2,Documentary/Biography,2007.0,81
+8155,The Unknown Peter Sellers,http://www.imdb.com/title/tt0243637/,25 April 2000,52min,"['Documentary', 'Biography']",7.6,Documentary/Biography,2000.0,52
+8156,All About Bette,http://www.imdb.com/title/tt0106247/,17 July 1994,48min,"['Documentary', 'Biography']",8.8,Documentary/Biography,1994.0,48
+8163,Katharine Hepburn: All About Me,http://www.imdb.com/title/tt0104597/,18 January 1993,1h 10min,"['Documentary', 'Biography']",8.3,Documentary/Biography,1993.0,70
+8182,Pie in the Sky: The Brigid Berlin Story,http://www.imdb.com/title/tt0261174/,18 May 2001,1h 15min,"['Documentary', 'Biography']",7.3,Documentary/Biography,2001.0,75
+8189,Elia Kazan: A Director's Journey,http://www.imdb.com/title/tt0246601/,14 August 1995,1h 15min,"['Documentary', 'Biography']",7.1,Documentary/Biography,1995.0,75
+8212,The Untouchables,http://www.imdb.com/title/tt0094226/,3 June 1987,1h 59min,"['Crime', 'Drama', 'Thriller']",7.9,Crime,1987.0,119
+8219,The Way Back,http://www.imdb.com/title/tt1023114/,21 January 2011,2h 13min,"['Adventure', 'Biography', 'Drama']",7.3,Documentary/Biography,2011.0,133
+8224,Les Misérables,http://www.imdb.com/title/tt0119683/,1 May 1998,2h 14min,"['Crime', 'Drama', 'History']",7.5,Crime,1998.0,134
+8225,Enemy at the Gates,http://www.imdb.com/title/tt0215750/,16 March 2001,2h 11min,"['Drama', 'History', 'War']",7.6,Drama,2001.0,131
+8234,Frost/Nixon,http://www.imdb.com/title/tt0870111/,23 January 2009,2h 2min,"['Biography', 'Drama']",7.7,Documentary/Biography,2009.0,122
+8249,Thirteen Days,http://www.imdb.com/title/tt0146309/,12 January 2001,2h 25min,"['Drama', 'History', 'Thriller']",7.3,Drama,2001.0,145
+8257,A Bridge Too Far,http://www.imdb.com/title/tt0075784/,15 June 1977,2h 55min,"['Drama', 'History', 'War']",7.4,Drama,1977.0,175
+8264,For Greater Glory: The True Story of Cristiada,http://www.imdb.com/title/tt1566501/,1 June 2012,2h 25min,"['Drama', 'History', 'War']",6.6,Drama,2012.0,145
+8273,54,http://www.imdb.com/title/tt0120577/,28 August 1998,1h 33min,"['Drama', 'Music']",5.8,Drama,1998.0,93
+8281,Beyond the Gates,http://www.imdb.com/title/tt0420901/,31 March 2006,1h 55min,"['Drama', 'History', 'War']",7.7,Drama,2006.0,115
+8303,The Beast of War,http://www.imdb.com/title/tt0094716/,7 September 1988,1h 51min,['War'],7.4,Undefined,1988.0,111
+8307,A Royal Affair,http://www.imdb.com/title/tt1276419/,29 March 2012,2h 17min,"['Biography', 'Drama', 'History']",7.6,Documentary/Biography,2012.0,137
+8317,Escape from Alcatraz,http://www.imdb.com/title/tt0079116/,22 June 1979,1h 52min,"['Biography', 'Crime', 'Drama']",7.6,Documentary/Biography,1979.0,112
+8318,All the President's Men,http://www.imdb.com/title/tt0074119/,9 April 1976,2h 18min,"['Biography', 'Drama', 'History']",8.0,Documentary/Biography,1976.0,138
+8321,Windtalkers,http://www.imdb.com/title/tt0245562/,14 June 2002,2h 14min,"['Action', 'Drama', 'War']",6.0,Undefined,2002.0,134
+8323,Kagemusha,http://www.imdb.com/title/tt0080979/,10 October 1980,2h 42min,"['Drama', 'History', 'War']",8.0,Drama,1980.0,162
+8338,Hyde Park on Hudson,http://www.imdb.com/title/tt1477855/,1 February 2013,1h 34min,"['Biography', 'Comedy', 'Drama']",5.9,Documentary/Biography,2013.0,94
+8340,Hotel Rwanda,http://www.imdb.com/title/tt0395169/,4 February 2005,2h 1min,"['Biography', 'Drama', 'History']",8.1,Documentary/Biography,2005.0,121
+8351,W.,http://www.imdb.com/title/tt1175491/,17 October 2008,2h 9min,"['Biography', 'Drama', 'History']",6.4,Documentary/Biography,2008.0,129
+8352,The Young Victoria,http://www.imdb.com/title/tt0962736/,8 January 2010,1h 45min,"['Biography', 'Drama', 'History']",7.3,Documentary/Biography,2010.0,105
+8356,Made in Dagenham,http://www.imdb.com/title/tt1371155/,20 September 2010,1h 53min,"['Biography', 'Comedy', 'Drama']",7.2,Documentary/Biography,2010.0,113
+8365,Ned Kelly,http://www.imdb.com/title/tt0277941/,26 March 2004,1h 50min,"['Action', 'Adventure', 'Biography']",6.5,Documentary/Biography,2004.0,110
+8373,Seven Years in Tibet,http://www.imdb.com/title/tt0120102/,10 October 1997,2h 16min,"['Adventure', 'Biography', 'Drama']",7.0,Documentary/Biography,1997.0,136
+8375,Up from Slavery,http://www.imdb.com/title/tt1935942/,13 September 2011,5h 15min,"['Documentary', 'Biography', 'History']",7.2,Documentary/Biography,2011.0,315
+8380,Restoration,http://www.imdb.com/title/tt0114272/,2 February 1996,1h 57min,"['Biography', 'Drama', 'History']",6.7,Documentary/Biography,1996.0,117
+8393,MacArthur,http://www.imdb.com/title/tt0076342/,15 July 1977,2h 10min,"['Biography', 'Drama', 'History']",6.6,Documentary/Biography,1977.0,130
+8398,The Broken Tower,http://www.imdb.com/title/tt1756791/,20 June 2011,1h 39min,"['Biography', 'Drama', 'History']",5.2,Documentary/Biography,2011.0,99
+8407,Oranges and Sunshine,http://www.imdb.com/title/tt1438216/,1 April 2011,1h 45min,"['Drama', 'History']",7.1,Drama,2011.0,105
+8424,The Pagan Queen,http://www.imdb.com/title/tt1096997/,29 June 2010,1h 39min,"['Fantasy', 'History', 'Romance']",3.5,Romance,2010.0,99
+8429,The Hiding Place,http://www.imdb.com/title/tt0073109/,15 February 1977,2h 30min,"['Biography', 'Drama', 'History']",7.6,Documentary/Biography,1977.0,150
+8431,Come See the Paradise,http://www.imdb.com/title/tt0099291/,1991,2h 18min,"['Drama', 'Romance', 'War']",6.7,Romance,1991.0,138
+8456,The Judge and the Assassin,http://www.imdb.com/title/tt0073219/,1979,2h 8min,"['Crime', 'Drama', 'History']",7.5,Crime,1979.0,128
+8462,Under African Skies,http://www.imdb.com/title/tt2112868/,25 May 2012,1h 48min,"['Documentary', 'Biography', 'History']",7.8,Documentary/Biography,2012.0,108
+8463,Hitler: The Last Ten Days,http://www.imdb.com/title/tt0070184/,9 May 1973,1h 48min,"['Biography', 'Drama', 'History']",6.8,Documentary/Biography,1973.0,108
+8465,Tesla: Master of Lightning,http://www.imdb.com/title/tt0272884/,,1h 27min,"['Documentary', 'Biography', 'History']",8.1,Documentary/Biography,,87
+8468,American Radical: The Trials of Norman Finkelstein,http://www.imdb.com/title/tt1475191/,11 February 2010,1h 24min,"['Documentary', 'Biography', 'History']",8.0,Documentary/Biography,2010.0,84
+8474,The Soul of a Man,http://www.imdb.com/title/tt0368287/,6 May 2004,1h 43min,"['Documentary', 'Biography', 'History']",7.4,Documentary/Biography,2004.0,103
+8481,Phar Lap,http://www.imdb.com/title/tt0086102/,13 April 1984,1h 47min,"['Biography', 'Drama', 'Family']",7.3,Documentary/Biography,1984.0,107
+8499,Rurouni Kenshin: Requiem for the Ishin Patriots,http://www.imdb.com/title/tt0184872/,27 March 2001,1h 30min,"['Animation', 'Action', 'Drama']",7.4,Undefined,2001.0,90
+8504,The Red Machine,http://www.imdb.com/title/tt1218510/,2010,1h 24min,"['Adventure', 'Crime', 'Drama']",6.0,Crime,2010.0,84
+8521,Jefferson in Paris,http://www.imdb.com/title/tt0113463/,31 March 1995,2h 19min,"['Biography', 'Drama', 'History']",5.7,Documentary/Biography,1995.0,139
+8524,Ghetto,http://www.imdb.com/title/tt0783522/,8 June 2006,1h 50min,"['History', 'War']",6.9,Undefined,2006.0,110
+8534,Zombie Apocalypse,http://www.imdb.com/title/tt1876547/,29 October 2011,1h 27min,"['Action', 'Horror', 'Sci-Fi']",4.0,Sci-Fi/Fantasy,2011.0,87
+8544,Jack the Ripper,http://www.imdb.com/title/tt0095388/,21 October 1988,3h 10min,"['Crime', 'Drama', 'Mystery']",7.7,Crime,1988.0,190
+8546,The Sunset Limited,http://www.imdb.com/title/tt1510938/,12 February 2011,1h 31min,['Drama'],7.4,Drama,2011.0,91
+8560,High School Musical 2,http://www.imdb.com/title/tt0810900/,17 August 2007,1h 44min,"['Comedy', 'Drama', 'Family']",4.8,Comedy,2007.0,104
+8568,Sorority Wars,http://www.imdb.com/title/tt1411249/,17 October 2009,1h 35min,"['Comedy', 'Drama']",6.0,Comedy,2009.0,95
+8585,Revenge of the Bridesmaids,http://www.imdb.com/title/tt1666642/,18 July 2010,1h 35min,"['Comedy', 'Romance']",6.1,RomCom,2010.0,95
+8586,StarStruck,http://www.imdb.com/title/tt1579247/,14 February 2010,1h 30min,"['Comedy', 'Family', 'Music']",6.2,Comedy,2010.0,90
+8588,The Five People You Meet in Heaven,http://www.imdb.com/title/tt0400435/,24 April 2005,3h,"['Drama', 'Fantasy']",7.4,Sci-Fi/Fantasy,2005.0,180
+8594,The Temptations,http://www.imdb.com/title/tt0164292/,1998,2h 30min,"['Biography', 'Drama', 'Music']",8.5,Documentary/Biography,1998.0,150
+8607,Odd Girl Out,http://www.imdb.com/title/tt0433422/,4 April 2005,1h 24min,['Drama'],6.9,Drama,2005.0,84
+8609,The Cheetah Girls,http://www.imdb.com/title/tt0338852/,15 August 2003,1h 40min,"['Comedy', 'Drama', 'Family']",4.7,Comedy,2003.0,100
+8616,The Star Wars Holiday Special,http://www.imdb.com/title/tt0193524/,17 November 1978,1h 37min,"['Adventure', 'Family', 'Musical']",2.4,Action/Adventure,1978.0,97
+8630,Alice in Wonderland,http://www.imdb.com/title/tt0088693/,9 December 1985,3h 7min,"['Adventure', 'Family', 'Fantasy']",7.4,Sci-Fi/Fantasy,1985.0,187
+8635,Wit,http://www.imdb.com/title/tt0243664/,24 March 2001,1h 39min,['Drama'],8.1,Drama,2001.0,99
+8639,Helen of Troy,http://www.imdb.com/title/tt0340477/,20 April 2003,2h 55min,"['Action', 'Adventure', 'Drama']",6.3,Undefined,2003.0,175
+8656,The Wonderful World of DisneyEpisode: Life-Size,http://www.imdb.com/title/tt0132666/,28 September 1997,2h,"['Animation', 'Action', 'Adventure']",6.8,Action/Adventure,1997.0,120
+8658,Doctor Zhivago,http://www.imdb.com/title/tt0324937/,24 November 2002,3h 46min,"['Drama', 'Romance']",7.5,Romance,2002.0,226
+8671,The Scarlet Pimpernel,http://www.imdb.com/title/tt0084637/,9 November 1982,2h 22min,"['Action', 'Drama', 'Romance']",7.7,Romance,1982.0,142
+8682,Too Young to Die?,http://www.imdb.com/title/tt0100797/,26 February 1990,1h 32min,"['Drama', 'Crime']",5.9,Crime,1990.0,92
+8697,Gia,http://www.imdb.com/title/tt0123865/,31 January 1998,2h,"['Biography', 'Drama', 'Romance']",7.0,Documentary/Biography,1998.0,120
+8701,Prayers for Bobby,http://www.imdb.com/title/tt1073510/,24 January 2009,1h 30min,"['Biography', 'Drama', 'Romance']",8.1,Documentary/Biography,2009.0,90
+8704,Grey Gardens,http://www.imdb.com/title/tt0758751/,18 April 2009,1h 44min,"['Biography', 'Drama']",7.5,Documentary/Biography,2009.0,104
+8718,Bury My Heart at Wounded Knee,http://www.imdb.com/title/tt0821638/,27 May 2007,2h 13min,"['Drama', 'History', 'Western']",7.2,Drama,2007.0,133
+8726,Citizen X,http://www.imdb.com/title/tt0112681/,25 February 1995,1h 45min,"['Biography', 'Crime', 'Drama']",7.6,Documentary/Biography,1995.0,105
+8728,Lovestruck: The Musical,http://www.imdb.com/title/tt2246673/,21 April 2013,1h 23min,"['Comedy', 'Fantasy', 'Musical']",6.4,Comedy,2013.0,83
+8743,Dirty Teacher,http://www.imdb.com/title/tt2641874/,30 March 2013,1h 25min,"['Drama', 'Mystery', 'Thriller']",4.7,Drama,2013.0,85
+8749,Change of Plans,http://www.imdb.com/title/tt1790658/,8 January 2011,2h 5min,"['Comedy', 'Drama', 'Family']",6.3,Comedy,2011.0,125
+8759,Beyond the Blackboard,http://www.imdb.com/title/tt1699225/,24 April 2011,1h 35min,"['Drama', 'Family']",7.8,Drama,2011.0,95
+8763,The Suspicions of Mr Whicher: The Murder at Road Hill House,http://www.imdb.com/title/tt1724572/,25 April 2011,1h 35min,"['Crime', 'Drama', 'Mystery']",6.5,Crime,2011.0,95
+8776,Mom at Sixteen,http://www.imdb.com/title/tt0438123/,21 March 2005,1h 30min,['Drama'],6.9,Drama,2005.0,90
+8791,Bravo Two Zero,http://www.imdb.com/title/tt0120617/,15 June 1999,2h 2min,"['Action', 'Adventure', 'Drama']",6.9,Undefined,1999.0,122
+8794,The Worst Witch,http://www.imdb.com/title/tt0092239/,31 October 1986,1h 10min,"['Comedy', 'Family', 'Fantasy']",7.2,Comedy,1986.0,70
+8812,Rebound: The Legend of Earl 'The Goat' Manigault,http://www.imdb.com/title/tt0117450/,23 November 1996,2h,"['Biography', 'Drama', 'Sport']",7.8,Documentary/Biography,1996.0,120
+8819,Einstein and Eddington,http://www.imdb.com/title/tt0995036/,23 November 2008,1h 34min,"['Drama', 'History']",7.4,Drama,2008.0,94
+8828,Revenge of the Nerds III: The Next Generation,http://www.imdb.com/title/tt0105251/,13 July 1992,1h 33min,['Comedy'],3.8,Comedy,1992.0,93
+8842,Hysterical Blindness,http://www.imdb.com/title/tt0290664/,21 August 2002,1h 39min,['Drama'],6.5,Drama,2002.0,99
+8879,My House in Umbria,http://www.imdb.com/title/tt0323332/,25 May 2003,1h 43min,"['Drama', 'Mystery', 'Romance']",7.0,Romance,2003.0,103
+8897,When a Stranger Calls Back,http://www.imdb.com/title/tt0108556/,4 April 1993,1h 34min,"['Horror', 'Mystery', 'Thriller']",6.4,Horror,1993.0,94
+8901,Dr. Strange,http://www.imdb.com/title/tt0077469/,6 September 1978,1h 33min,"['Action', 'Fantasy']",5.4,Sci-Fi/Fantasy,1978.0,93
+8927,Truman,http://www.imdb.com/title/tt0114738/,9 September 1995,2h 15min,"['Biography', 'Drama']",7.3,Documentary/Biography,1995.0,135
+8937,Helter Skelter,http://www.imdb.com/title/tt0074621/,1 April 1976,1h 59min,"['Crime', 'Drama', 'Thriller']",7.4,Crime,1976.0,119
+8938,Les Miserables,http://www.imdb.com/title/tt0077936/,27 December 1978,2h 30min,"['Drama', 'History']",7.3,Drama,1978.0,150
+8943,Sharpe's Eagle,http://www.imdb.com/title/tt0108107/,12 May 1993,1h 40min,"['Action', 'Adventure', 'History']",8.0,Action/Adventure,1993.0,100
+8961,Hannibal: Rome's Worst Nightmare,http://www.imdb.com/title/tt0766213/,14 May 2006,1h 29min,"['Action', 'Biography', 'Drama']",6.9,Documentary/Biography,2006.0,89
+8968,And Starring Pancho Villa as Himself,http://www.imdb.com/title/tt0337824/,7 September 2003,1h 52min,"['Biography', 'Drama', 'History']",6.6,Documentary/Biography,2003.0,112
+8989,The Victoria's Secret Fashion Show,http://www.imdb.com/title/tt2049576/,29 November 2011,1h,[],8.4,Undefined,2011.0,60
+8993,A Performance of Macbeth,http://www.imdb.com/title/tt0079499/,,2h 25min,['Drama'],7.6,Drama,,145
+9020,The Song of Lunch,http://www.imdb.com/title/tt1686812/,8 October 2010,50min,['Drama'],7.6,Drama,2010.0,50
+9034,Steambath,http://www.imdb.com/title/tt0167415/,4 May 1973,1h 30min,"['Drama', 'Fantasy']",8.2,Sci-Fi/Fantasy,1973.0,90
+9072,Mother Teresa,http://www.imdb.com/title/tt0375986/,19 October 2003,1h 50min,"['Biography', 'Drama']",7.1,Documentary/Biography,2003.0,110
+9073,Victory at Entebbe,http://www.imdb.com/title/tt0075391/,13 December 1976,1h 59min,"['Action', 'Drama', 'History']",6.1,Undefined,1976.0,119
+9082,Sharpe's Sword,http://www.imdb.com/title/tt0114418/,15 July 2006,1h 41min,"['Action', 'Adventure', 'History']",8.0,Action/Adventure,2006.0,101
+9107,The Josephine Baker Story,http://www.imdb.com/title/tt0102167/,16 March 1991,2h 10min,"['Biography', 'Drama', 'History']",7.1,Documentary/Biography,1991.0,130
+9114,Son-Rise: A Miracle of Love,http://www.imdb.com/title/tt0079933/,14 May 1979,2h,['Drama'],7.4,Drama,1979.0,120
+9117,Bill Engvall: Here's Your Sign Live,http://www.imdb.com/title/tt0816435/,1 August 2004,1h 12min,['Comedy'],7.3,Comedy,2004.0,72
+9141,Lewis Black: Black on Broadway,http://www.imdb.com/title/tt0414224/,15 May 2004,58min,"['Documentary', 'Comedy']",8.1,Documentary/Biography,2004.0,58
+9146,Horatio Hornblower 3,http://www.imdb.com/title/tt0327890/,2 December 2003,2h 5min,"['Adventure', 'Drama', 'War']",8.2,Undefined,2003.0,125
+9151,Gabriel Iglesias: I'm Not Fat... I'm Fluffy,http://www.imdb.com/title/tt1554966/,8 November 2009,1h,['Comedy'],8.1,Comedy,2009.0,60
+9156,Queer as FolkEpisode: Episode #2.1,http://www.imdb.com/title/tt0185102/,23 February 1999,48min,['Drama'],8.1,Drama,1999.0,48
+9168,Jim Jefferies: I Swear to God,http://www.imdb.com/title/tt1439235/,16 May 2009,58min,['Comedy'],8.3,Comedy,2009.0,58
+9173,Gundam Wing: The Movie - Endless Waltz,http://www.imdb.com/title/tt0260191/,10 November 2000,3h,"['Animation', 'Action', 'Drama']",8.0,Undefined,2000.0,180
+9177,The Trailer Park Boys Christmas Special,http://www.imdb.com/title/tt0439856/,12 December 2004,57min,['Comedy'],8.3,Comedy,2004.0,57
+9196,"Goodbye, Mr. Chips",http://www.imdb.com/title/tt0327804/,19 October 2003,1h 39min,['Drama'],7.6,Drama,2003.0,99
+9210,Painted with Words,http://www.imdb.com/title/tt1632679/,5 April 2010,1h 20min,"['Biography', 'Drama']",8.1,Documentary/Biography,2010.0,80
+9229,The Sculptress,http://www.imdb.com/title/tt0117574/,13 November 1997,3h,"['Crime', 'Drama', 'Mystery']",7.4,Crime,1997.0,180
+9241,Sharpe's Justice,http://www.imdb.com/title/tt0120109/,19 August 2006,1h 40min,"['Adventure', 'Drama']",7.6,Undefined,2006.0,100
+9245,Summerhill,http://www.imdb.com/title/tt1042913/,2008,2h,['Drama'],8.1,Drama,2008.0,120
+9246,The Victoria's Secret Fashion Show,http://www.imdb.com/title/tt2556962/,4 December 2012,,[],7.9,Undefined,2012.0,0
+9280,A Triumph of the Heart: The Ricky Bell Story,http://www.imdb.com/title/tt0103123/,2 April 1991,1h 40min,"['Biography', 'Drama', 'Sport']",7.5,Documentary/Biography,1991.0,100
+9299,The Rebels,http://www.imdb.com/title/tt0079783/,14 May 1979,4h,"['Drama', 'History', 'War']",6.9,Drama,1979.0,240
+9305,Old Man,http://www.imdb.com/title/tt0119823/,9 February 1997,1h 38min,"['Drama', 'History']",7.2,Drama,1997.0,98
+9308,The Jesse Owens Story,http://www.imdb.com/title/tt0087501/,9 July 1984,2h 54min,"['Biography', 'Drama', 'History']",7.0,Documentary/Biography,1984.0,174
+9324,Interview Day,http://www.imdb.com/title/tt0116230/,28 May 1996,1h 25min,"['Comedy', 'Drama']",7.9,Comedy,1996.0,85
+9327,Raven: Return of the Black Dragons,http://www.imdb.com/title/tt0105221/,23 April 1997,1h 15min,['Action'],8.0,Action/Adventure,1997.0,75
+9335,The Christmas Raccoons,http://www.imdb.com/title/tt0128995/,17 December 1980,30min,"['Animation', 'Family']",7.8,Undefined,1980.0,30
+9342,Second Sight: Kingdom of the Blind,http://www.imdb.com/title/tt0286056/,4 January 2008,1h 37min,"['Crime', 'Drama', 'Mystery']",7.8,Crime,2008.0,97
+9363,Don Bosco,http://www.imdb.com/title/tt0416694/,22 September 2004,2h 26min,['Drama'],7.7,Drama,2004.0,146
+9370,Derren Brown: The System,http://www.imdb.com/title/tt1173484/,1 February 2008,,[],8.2,Undefined,2008.0,0
+9372,Amelia,http://www.imdb.com/title/tt0383867/,15 October 2003,1h,[],8.7,Undefined,2003.0,60
+9383,The Pirates of Penzance,http://www.imdb.com/title/tt0363891/,,2h 2min,"['Comedy', 'Musical']",8.0,Comedy,,122
+9384,A Voyage Round My Father,http://www.imdb.com/title/tt0084875/,19 April 1984,1h 30min,['Drama'],7.9,Drama,1984.0,90
+9392,Outrage,http://www.imdb.com/title/tt0070497/,28 November 1973,1h 14min,"['Crime', 'Drama', 'Thriller']",7.6,Crime,1973.0,74
+9401,One of My Wives Is Missing,http://www.imdb.com/title/tt0075015/,5 March 1976,1h 33min,['Thriller'],8.1,Undefined,1976.0,93
+9404,Much Ado About Nothing,http://www.imdb.com/title/tt0087752/,22 December 1984,2h 28min,"['Comedy', 'Romance']",8.1,RomCom,1984.0,148
+9429,Eric,http://www.imdb.com/title/tt0072945/,10 November 1975,1h 34min,['Drama'],8.0,Drama,1975.0,94
+9434,The Fool of the World and the Flying Ship,http://www.imdb.com/title/tt0205070/,,1h,"['Animation', 'Adventure', 'Family']",8.5,Action/Adventure,,60
+9435,Coming Down the Mountain,http://www.imdb.com/title/tt0974544/,2 September 2007,1h 20min,['Drama'],7.7,Drama,2007.0,80
+9437,Care,http://www.imdb.com/title/tt0263181/,8 October 2000,1h 45min,"['Crime', 'Drama']",7.8,Crime,2000.0,105
+9453,Ringo,http://www.imdb.com/title/tt0077071/,26 April 1978,45min,['Comedy'],7.8,Comedy,1978.0,45
+9454,Second Sight: Hide and Seek,http://www.imdb.com/title/tt0282947/,1 June 2008,1h 40min,"['Crime', 'Drama', 'Mystery']",7.6,Crime,2008.0,100
+9456,Through My Eyes,http://www.imdb.com/title/tt0409633/,2004,4h,['Drama'],7.8,Drama,2004.0,240
+9469,Out of Control,http://www.imdb.com/title/tt0332300/,15 September 2002,1h 30min,"['Crime', 'Drama']",8.0,Crime,2002.0,90
+9470,Robert Schimmel: Unprotected,http://www.imdb.com/title/tt0253594/,,55min,"['Documentary', 'Comedy']",8.0,Documentary/Biography,,55
+9476,The Lost Language of Cranes,http://www.imdb.com/title/tt1963768/,9 February 1992,1h 27min,['Drama'],5.4,Drama,1992.0,87
+9494,Independence Day: Resurgence,http://www.imdb.com/title/tt1628841/,24 June 2016,2h,"['Action', 'Adventure', 'Sci-Fi']",5.3,Sci-Fi/Fantasy,2016.0,120
+9500,Steve Jobs,http://www.imdb.com/title/tt2080374/,23 October 2015,2h 2min,"['Biography', 'Drama']",7.2,Documentary/Biography,2015.0,122
+9517,Ghost in the Shell,http://www.imdb.com/title/tt1219827/,31 March 2017,2h,"['Action', 'Crime', 'Drama']",,Crime,2017.0,120
+9563,The Angry Birds Movie,http://www.imdb.com/title/tt1985949/,20 May 2016,1h 37min,"['Animation', 'Action', 'Adventure']",6.3,Action/Adventure,2016.0,97
+9574,Flying Horse,http://www.imdb.com/title/tt2983414/,,,"['Biography', 'Drama']",,Documentary/Biography,,0
+9579,X-Men: Apocalypse,http://www.imdb.com/title/tt3385516/,27 May 2016,2h 24min,"['Action', 'Adventure', 'Sci-Fi']",7.1,Sci-Fi/Fantasy,2016.0,144
+9588,Ride Along 2,http://www.imdb.com/title/tt2869728/,15 January 2016,1h 42min,"['Action', 'Comedy']",5.9,Comedy,2016.0,102
+9591,Regression,http://www.imdb.com/title/tt3319920/,2 October 2015,1h 46min,"['Crime', 'Drama', 'Mystery']",5.7,Crime,2015.0,106
+9597,Get Hard,http://www.imdb.com/title/tt2561572/,27 March 2015,1h 40min,"['Comedy', 'Crime']",6.0,Comedy,2015.0,100
+9624,The Age of Adaline,http://www.imdb.com/title/tt1655441/,24 April 2015,1h 52min,"['Drama', 'Fantasy', 'Romance']",7.2,Romance,2015.0,112
+9653,The Gallows,http://www.imdb.com/title/tt2309260/,10 July 2015,1h 21min,"['Horror', 'Thriller']",4.2,Horror,2015.0,81
+9671,Scouts Guide to the Zombie Apocalypse,http://www.imdb.com/title/tt1727776/,30 October 2015,1h 33min,"['Action', 'Comedy', 'Horror']",6.3,Comedy,2015.0,93
+9680,The Nut Job 2: Nutty by Nature,http://www.imdb.com/title/tt3486626/,18 August 2017,,"['Animation', 'Adventure', 'Comedy']",,Comedy,2017.0,0
+9681,The 5th Wave,http://www.imdb.com/title/tt2304933/,22 January 2016,1h 52min,"['Action', 'Adventure', 'Sci-Fi']",5.2,Sci-Fi/Fantasy,2016.0,112
+9688,The Best Man Wedding,http://www.imdb.com/title/tt3345056/,,,"['Comedy', 'Romance']",,RomCom,,0
+9696,Dirty Grandpa,http://www.imdb.com/title/tt1860213/,22 January 2016,1h 42min,['Comedy'],6.0,Comedy,2016.0,102
+9703,Kong: Skull Island,http://www.imdb.com/title/tt3731562/,10 March 2017,2h,"['Action', 'Adventure', 'Fantasy']",7.2,Sci-Fi/Fantasy,2017.0,120
+9713,Trainwreck,http://www.imdb.com/title/tt3152624/,17 July 2015,2h 5min,"['Comedy', 'Drama', 'Romance']",6.3,RomCom,2015.0,125
+9740,Starship Troopers,http://www.imdb.com/title/tt2126361/,,,"['Action', 'Adventure', 'Sci-Fi']",,Sci-Fi/Fantasy,,0
+9786,The Toxic Avenger,http://www.imdb.com/title/tt1633359/,,,"['Action', 'Comedy']",,Comedy,,0
+9801,Disenchanted,http://www.imdb.com/title/tt1596342/,,,"['Animation', 'Adventure', 'Comedy']",,Comedy,,0
+9802,Sub-Mariner,http://www.imdb.com/title/tt0436803/,,,"['Action', 'Adventure', 'Drama']",,Undefined,,0
+9811,The Wild Bunch,http://www.imdb.com/title/tt2028582/,,,['Western'],,Undefined,,0
+9829,A Star Is Born,http://www.imdb.com/title/tt1517451/,28 September 2018,,"['Drama', 'Musical', 'Romance']",,Romance,2018.0,0
+9831,Death of a Dissident,http://www.imdb.com/title/tt0944193/,,,['Crime'],,Crime,,0
+9833,Agincourt,http://www.imdb.com/title/tt1480287/,,,"['Drama', 'History', 'War']",,Drama,,0
+9840,London Fields,http://www.imdb.com/title/tt1273221/,2017,1h 58min,"['Crime', 'Mystery', 'Thriller']",,Crime,2017.0,118
+9843,Shadow of the Colossus,http://www.imdb.com/title/tt1414372/,,,"['Adventure', 'Fantasy']",,Sci-Fi/Fantasy,,0
+9849,The Heart,http://www.imdb.com/title/tt2281585/,,,"['Action', 'Comedy']",,Comedy,,0
+9856,Masters of the Universe,http://www.imdb.com/title/tt0427340/,,,"['Action', 'Adventure', 'Drama']",,Undefined,,0
+9857,Beasts of No Nation,http://www.imdb.com/title/tt1365050/,16 October 2015,2h 17min,"['Drama', 'War']",7.8,Drama,2015.0,137
+9871,Closer to the Moon,http://www.imdb.com/title/tt2017486/,17 April 2015,1h 52min,"['Comedy', 'Drama']",7.0,Comedy,2015.0,112
+9872,Forever,http://www.imdb.com/title/tt1726811/,,,['Sci-Fi'],,Sci-Fi/Fantasy,,0
+9880,Prima,http://www.imdb.com/title/tt1710550/,,,['Comedy'],,Comedy,,0
+9900,Keoma Rises,http://www.imdb.com/title/tt2726408/,2017,,['Western'],,Undefined,2017.0,0
+9925,A Most Violent Year,http://www.imdb.com/title/tt2937898/,30 January 2015,2h 5min,"['Action', 'Crime', 'Drama']",7.0,Crime,2015.0,125
+9927,Into the Woods,http://www.imdb.com/title/tt2180411/,25 December 2014,2h 5min,"['Adventure', 'Comedy', 'Drama']",6.0,Comedy,2014.0,125
+9938,Untitled Undercover Crime Thriller,http://www.imdb.com/title/tt3717278/,,,"['Crime', 'Thriller']",,Crime,,0
+9946,Allied,http://www.imdb.com/title/tt3640424/,23 November 2016,2h 4min,"['Action', 'Drama', 'Romance']",7.1,Romance,2016.0,124
+9947,Americanah,http://www.imdb.com/title/tt3781380/,,,"['Drama', 'Romance']",,Romance,,0
